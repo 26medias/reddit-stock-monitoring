@@ -121,7 +121,7 @@ class Monitor:
         self.df_name = dname
       else:
         # Create a new DF
-        self.df = pd.DataFrame()
+        self.df = pd.DataFrame(columns=['comment', 'submission', 'rockets'])
         self.df_name = dname
       self.df.to_pickle(filename)
     return self.df
