@@ -7,7 +7,7 @@ from nltk.tokenize import word_tokenize
 import glob
 import pandas as pd
 import re
-import datetime
+from datetime import datetime
 import threading
 
 # Get the symbols
@@ -103,7 +103,7 @@ class Monitor:
       self.record(source='comment', has_rocket=has_rocket, symbols=found, title=comment.body)
     
   def get_df(self):
-    d = datetime.datetime.now()
+    d = datetime.now()
     dname = '{}-{}-{}_{}_{}'.format(d.year,d.month,d.day,d.hour,d.minute)
     if self.df_name != dname:
       filename = "data/"+dname+".pkl"
