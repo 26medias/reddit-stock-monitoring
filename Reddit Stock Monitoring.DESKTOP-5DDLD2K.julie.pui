@@ -1,0 +1,30 @@
+[Folders]
+.+AFw-="1"
+
+[Open File Tabs]
+Tab0="0,500195,0,1000000"
+Tab1="500195,499804,0,1000000"
+
+[Open Files]
+Active File Display Mode="1"
+Active File Index="2"
+Open File Line0="0"
+Open File Line1="0"
+Open File Line2="0"
+Open File Pos0="594"
+Open File Pos1="0"
+Open File Pos2="220"
+Open File Tab Pos0="0"
+Open File Tab Pos1="0"
+Open File Tab Pos2="1"
+Open File Window Pos0="0,1,-1,-1,-1,-1,5,31,1019,1385"
+Open File Window Pos1="0,1,-1,-1,-1,-1,5,31,1019,1385"
+Open File Window Pos2="0,1,-1,-1,-1,-1,1286,31,2045,1385"
+Open File0=".\test.py"
+Open File1="..\wsb-parser\main.js"
+Open File2="..\wsb-parser\reddit.py"
+Remember Files="1"
+
+[Project Information]
+Project Start="E50701000000110013002B001900000055"
+
