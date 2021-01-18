@@ -73,7 +73,7 @@ class Monitor:
         w = token.text.upper().split('.')[0]
       else:
         w = token.text.upper()
-      if token.pos_ in ['ADP','NOUN','PROPN'] and w in symbols and w not in false_symbol:
+      if token.pos_ in ['ADP','NOUN','PROPN'] and w in real_symbols and w not in false_symbol:
         found.append(w)
     if (len(found)>0):
       #print('\n\n----------------')
@@ -90,7 +90,7 @@ class Monitor:
         w = token.text.upper().split('.')[0]
       else:
         w = token.text.upper()
-      if token.pos_ in ['ADP','NOUN','PROPN'] and w in symbols and w not in false_symbol:
+      if token.pos_ in ['ADP','NOUN','PROPN'] and w in real_symbols and w not in false_symbol:
         found.append(w)
     if (len(found)>0):
       self.record(source='comment', has_rocket=has_rocket, symbols=found, title=comment.body)
