@@ -121,7 +121,7 @@ class Monitor:
       print("#### New DF: ", filename)
       # Save the previous df?
       if self.df_name != False:
-        filename = ""+self.df_name+".pkl"
+        filename = "data/"+self.df_name+".pkl"
         self.df.to_pickle(filename)
       # Recover the df
       if os.path.exists(filename):
