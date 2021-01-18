@@ -27,6 +27,15 @@ df = tickers.df
 real_symbols = df['Symbol'].unique()
 false_symbol = ['ON','IN','AT','FOR','BY','DD','YOLO','CORP','ONE','SUB','MOON','CEO']
 
+
+# Get the credentials & settings for PRAW
+reddit_client_id=os.environ['reddit_client_id']
+reddit_client_secret=os.environ['reddit_client_secret']
+reddit_password=os.environ['reddit_password']
+reddit_useragent=os.environ['reddit_useragent']
+reddit_username=os.environ['reddit_username']
+
+
 # Monitor Reddit
 class Monitor:
   def __init__(self):
@@ -39,8 +48,8 @@ class Monitor:
       client_id=reddit_client_id,
       client_secret=reddit_client_secret,
       password=reddit_password,
-      user_agent='StockMonitor/0.1 by thePsychonautDad',
-      username='thePsychonautDad',
+      user_agent=reddit_useragent,
+      username=reddit_username
     )
     self.subreddit = self.praw.subreddit("wallstreetbets")
     
