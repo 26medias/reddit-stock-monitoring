@@ -43,9 +43,9 @@ class Monitor:
     self.df = False
     self.df_name = False
     if os.path.exists('datasets.pkl'):
-      self.datasets = df.read_pickle('datasets.pkl')
+      self.datasets = pd.read_pickle('datasets.pkl')
     else:
-      self.datasets = df.DataFrame()
+      self.datasets = pd.DataFrame()
   
   def start(self):
     self.praw = praw.Reddit(
