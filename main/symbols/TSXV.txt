@@ -1,0 +1,1632 @@
+Symbol	Description
+A	Armor Minerals Inc
+AAG	Aftermath Silver Ltd
+AAN	Aton Resources Inc
+AAP.H	Alpha Peak Leisure Inc
+AAT	Ati Airtest Technologies Inc
+AAU	Angold Resources Ltd
+AAX	Advance Gold Corp
+AAZ	Azincourt Energy Corp
+AB.H	Asbestos Corporation Limited
+ABI	Abcourt Mines Inc
+ABN	Aben Resources Ltd
+ABR	Arbor Metals Corp
+ABRA	Abraplata Resource Corp
+ACC.P	Abigail Capital Corporation
+ACE.H	Ace Aviation Holdings Inc
+ACP	Arcpacific Resources Corp
+ACS	Archon Minerals Limited
+ACST	Acasti Pharma Inc
+ACU	Aurora Solar Technologies Inc
+ADCO	Adcore Inc
+ADD	Arctic Star Exploration Corp
+ADE	Adex Mining Inc
+ADG	Arcus Development Group Inc
+ADK	Diagnos Inc
+ADYA	Adya Inc
+ADZ	Adamera Minerals Corp
+ADZN	Adventus Mining Corp
+AEC	Anfield Energy Inc
+AEP	Atlas Engineered Products Ltd
+AEX	Aex Gold Inc
+AFCC	Automotive Finco Corp
+AFE	Africa Energy Corp
+AFF	Affinity Metals Corp
+AFM	Alphamin Resources Corp
+AFR.H	African Metals Corporation
+AGC	Amarillo Gold Corp
+AGD	Antioquia Gold Inc
+AGG	African Gold Group Inc
+AGH.H	Canadian Silver Hunter Inc
+AGL	Aguila American Gold Ltd
+AGLD	Austral Gold Limited
+AGO	Aurcrest Gold Inc
+AHE.H	American Helium Inc
+AHP	Allied Hotel Properties Inc
+AHR	Amarc Resources Ltd
+AHU	Arctic Hunter Energy Inc
+AIME.P	Aim5 Ventures Inc
+AIR	Clean Air Metals Inc
+AIS	Ais Resources Limited
+AKH.H	Alaska Hydro Corporation
+AKR	Ackroo Inc
+AL	Alx Resources Corp.
+ALDE	Aldebaran Resources Inc
+ALLI	Alpha Lithium Corp
+ALM	Alliance Mining Corp
+ALT	Alturas Minerals Corp
+ALTA	Altamira Gold Corp
+ALTS	Altus Strategies Plc
+ALV	Alvopetro Energy Ltd
+ALY	Analytixinsight Inc
+AM	Academy Metals Inc
+AMC	Arizona Metals Corp
+AME	Abacus Mining and Exploration
+AMI	Athabasca Minerals Inc
+AMK	American Creek Resources Ltd
+AMO	Altan Rio Minerals Limited
+AMR	Am Resources Corp
+AMV	Amv Capital Corporation
+AMX	AMEX Exploration Inc
+AMY	American Manganese Inc
+AMZ	Azucar Minerals Ltd
+AN	Arena Minerals Inc
+ANE	Altan Nevada Minerals Limited
+ANG	Angel Gold Corp
+ANK	Angkor Resources Corp
+ANL.H	Atlantic Industrial Minerals Inc
+ANTL	Antler Gold Inc
+ANZ	Alianza Minerals Ltd
+AORO	Aloro Mining Corp
+APC	Advanced Proteome Therapeutics Corp
+APGO	Apollo Gold & Silver Corp
+APL	Appulse Corp
+APN	Altiplano Minerals Ltd
+AQS	Aequus Pharmaceuticals Inc
+AQS.WT	Aequus Pharmaceuticals Inc WT
+AQUA	Aquarius Ai Inc.
+ARCH	Arch Biopartners Inc
+ARD	Armada Data Corp
+ARH	Altima Resources Ltd
+ARIC	Awale Resources Ltd
+ARJN	Aranjin Resources Ltd.
+ARS	Ares Strategic Mining Inc
+ART	Arht Media Inc
+ARTG	Artemis Gold Inc
+ARU	Aurania Resources Ltd
+ARU.WT	Aurania Resources Ltd Wts
+ASG	Aurora Spine Corp
+ASI	Ashanti Sankofa Inc
+ASL	Argentum Silver Corp
+AST	Astron Connect Inc
+ATC	Atac Resources Ltd
+ATI	Altai Resources Inc
+ATU	Altura Energy Inc
+ATW	Atw Tech Inc
+ATX	Atex Resources Inc
+ATY	Atico Mining Corp
+AU	Aurion Resources Ltd
+AUAU	Allegiant Gold Ltd
+AUEN	Golden Sky Minerals Corp.
+AUGC	Au Gold Corp
+AUL	Aurelius Minerals Inc
+AUMB	1911 Gold Corp
+AUN	Aurcana Silver Corp.
+AUQ	Auq Gold Mining Inc
+AUR.H	Aurora Royalties Inc
+AUT.H	Austin Resources Ltd
+AUU	Gold79 Mines Ltd.
+AUX	Aux Resources Corp.
+AVCR	Avricore Health Inc
+AVG	Avidian Gold Corp
+AVU	Avrupa Minerals Ltd
+AVX	Altair Resources Inc
+AWE	Thunderstruck Resources Ltd
+AWI	Advent Awi Holdings Inc
+AWX	Arcwest Exploration Inc
+AXE	Acceleware Ltd
+AXIS	Axis Auto Finance Inc
+AXL	Arrow Exploration Corp
+AXM	Axmin Inc
+AZ	A2Z Smart Technologies Corp.
+AZM	Azimut Exploration Inc
+AZR	Azarga Metals Corp
+AZS	Arizona Silver Exploration Inc
+AZT	Aztec Minerals Corp
+B	Bcm Resources Corp
+BABY	Else Nutrition Holdings Inc
+BABY.WT	Else Nutrition Holdings Inc Wts
+BAG	Blende Silver Corp
+BAL.H	Balto Resources Ltd
+BARU	Baru Gold Corp
+BAT	Batero Gold Corp
+BAU	Blue Star Gold Corp
+BAV.H	Bravern Ventures Ltd
+BAY	Aston Bay Holdings Ltd
+BBB	Brixton Metals Corp
+BCF	Builders Capital Mortgage Corp
+BCM	Bear Creek Mining Corp
+BCT	Briacell Therapeutics Corp
+BCU	Bell Copper Corporation
+BDGC	Boundary Gold and Copper Mining Ltd.
+BEA	Belmont Resources Inc
+BEER	Hill Street Beverage Company Inc
+BEN.H	Butte Energy Inc
+BES	Braille Energy Systems Inc
+BEW	Bewhere Holdings Inc
+BEX	Benton Resources Inc
+BGA	Bioneutra Global Corp
+BGD.H	Bullion Gold Resources Corp
+BGF	Beauce Gold Fields Inc
+BGS	Baroyeca Gold and Silver Inc
+BHR	Blackheath Resources Inc
+BHS	Bayhorse Silver Inc
+BHT	Braveheart Resources Inc
+BITF	Bitfarms Ltd
+BITK	Blockchaink2 Corp
+BKM	Pacific Booker Minerals Inc
+BKMT	Blockmint Technologies Inc
+BLM	Blumetric Environmental Inc
+BLN	Blackline Safety Corp
+BLTC.P	Baltic I Acquisition Corp
+BLUE	Blue Thunder Mining Inc
+BM.H	Bc Moly Ltd
+BME	Barsele Minerals Corp
+BMET	Bemetals Corp
+BMEX	Bmex Gold Inc.
+BMG	Black Mountain Gold USA Corp
+BMK	Macdonald Mines Expl Ltd
+BMM	Black Mammoth Metals Corp
+BMV.H	Bathurst Metals Corp
+BNCH	Benchmark Metals Inc
+BNXA	Banxa Holdings Inc
+BOL	Bold Ventures Inc
+BP	Backstageplay Inc
+BPLI	Bpli Holdings Inc.
+BQE	Bqe Water Inc
+BRAG	Bragg Gaming Group Inc
+BRAG.WT	Bragg Gaming Group Inc Wts
+BRAU	Big Ridge Gold Corp.
+BRC	Blackrock Gold Corp
+BRG	Brigadier Gold Limited
+BRL.H	Bearclaw Capital Corp
+BRM	Biorem Inc
+BRN.PR.A	Brookfield Investments Corp Pref A
+BRO	Barksdale Resources Corp.
+BRW	Brunswick Exploration Inc
+BRZ	Bearing Lithium Corp
+BSH	Bayshore Petroleum Corp
+BSI.H	Blue Sky Energy Inc
+BSK	Blue Sky Uranium Corp
+BSR	Bluestone Resources Inc
+BST	Bessor Minerals Inc
+BTEC.H	Balsam Technologies Corp
+BTI	Bioasis Technologies Inc
+BTR	Bonterra Resources Inc
+BTT	Bitterroot Resources Ltd
+BTU	Btu Metals Corp
+BTV	Bluerush Inc
+BUD	Satori Resources Inc
+BUF	Buffalo Coal Corp
+BUS	Grande West Transportation Group Inc
+BVA	Bravada Gold Corp
+BWLK	Boardwalktech Software Corp
+BWR	Bwr Exploration Inc
+BXR	Blue River Resources Ltd
+BYM.H	Baymount Incorporated
+BYN	Banyan Gold Corp
+BZ	Benz Mining Corp
+C	Contact Gold Inc
+CAD	Colonial Coal International Corp
+CAF	Canaf Investments Inc
+CAG	Composite Alliance Group Inc
+CAGR	Central African Gold Inc.
+CANB	Canadabis Capital Inc
+CAND	Candelaria Mining Corp
+CANX	Canex Metals Inc
+CAP	Castle Peak Mining Ltd
+CAPT	Capitan Mining Inc
+CASA	Casa Minerals Inc
+CAU.H	China Goldcorp Ltd
+CAY	Cache Exploration Inc
+CBA	Champion Bear Res Ltd
+CBG	Chibougamau Independent Mines Inc
+CBI	Colibri Resource Corp
+CBLT	Cblt Inc
+CBLU	Clear Blue Technologies Intl Inc
+CBR	Cabr AL Gold Inc
+CBV	Cobra Venture Corp
+CBX.P	Cross Border Capital Inc
+CCB	Canada Carbon Inc
+CCCM	C3 Metals Inc
+CCD	Cascadero Copper Corp
+CCE	Commerce Resources Corp
+CCII.P	Cuspis Capital II Ltd
+CCW	Canada Silver Cobalt Works Inc.
+CD	Cantex Mine Development Corp
+CDA	Canuc Resources Corp
+CDB	Cordoba Minerals Corp
+CDC	Cadillac Ventures Inc
+CDG	Candente Gold Corp
+CDU	Cardero Resource Corp
+CE.H	Canada Energy Partners Inc.
+CEL.H	Columbus Energy Limited
+CEM	Constantine Metal Resources Ltd
+CEN	Claren Energy Corp
+CEO.H	Clydesdale Resources Inc.
+CEP	Cliffside Capital Ltd
+CEY.H	Century Energy Ltd
+CFY	Cf Energy Corp
+CGC	Caldas Gold Corp
+CGC.WT	Caldas Gold Corp Wts
+CGD	Carlin Gold Corp
+CGP	Cornerstone Capital Resources Inc
+CHN	China Education Resources Inc
+CHY.H	Cypress Hills Resource Corp
+CIO	Central Iron Ore Limited
+CKG	Chesapeake Gold Corp
+CKK	Cordy Oilfield Services Inc
+CLI	Clearford Water Systems Inc
+CLV	Canoe Mining Ventures Corp
+CLZ	Canasil Resources Inc
+CMB	Cmc Metals Ltd
+CMD	Commander Resources Ltd
+CMI	C-Com Satellite Systems Inc
+CMIL	Capella Minerals Ltd
+CML	Canickel Mining Limited
+CMO.H	Cliffmont Resources Ltd
+CMX	Chilean Metals Inc
+CN	Condor Resources Inc
+CNC	Canada Nickel Company Inc.
+CNO	California Nanotechnologies Corp
+CNS	Contagious Gaming Inc
+CNX	Callinex Mines Inc
+COBC	Cobalt Blockchain Inc
+COIN	Coin Hodl Inc
+CONE	Canada One Mining Corp
+COO	Naturebank Asset Management Inc
+COR	Camino Minerals Corp
+COV	Covalon Technologies Ltd
+CPAU	Copaur Minerals Inc.
+CPL	Copper Lake Resources Ltd
+CPM.H	Crystal Peak Minerals Inc
+CPS	Canadian Premium Sand Inc
+CQR	Conquest Resources Ltd
+CRB	Cariboo Rose Resources Ltd
+CRBK	Carebook Technolgies Inc
+CRE	Critical Elements Lithium Corp
+CRTS	Cortus Metals Inc
+CSL	Comstock Metals Ltd
+CSO	Corsa Coal Corp
+CSOC.A	Canso Select Opportunities Corp Class A
+CSOC.B	Canso Select Opportunities Corp Class B
+CSTL.P	Castlecap Capital Inc
+CSTR	Cryptostar Corp
+CSX	Clean Seed Capital Group Ltd
+CTA	Centaurus Energy Inc.
+CTM	Canterra Minerals Corp
+CTO	Circa Enterprises Inc
+CTS	Converge Technology Solutions Corp
+CTU.H	Le Chateau Inc
+CTZ	Namsys Inc
+CUB	Cubicfarm Systems Corp
+CUDA	Cuda Oil & Gas Inc
+CUI	Currie Rose Resources Inc
+CUR	International Consolidated Uranium Inc
+CUSN	Cornish Metals Inc.
+CUU	Copper Fox Metals Inc
+CVB	Compass Gold Corporation
+CVM	Cvr Medical Corp
+CVV	Canalaska Uranium Ltd
+CVX	Cematrix Corp
+CWC	Cwc Energy Services Corp
+CWM	Crown Mining Corp
+CWRK	Currencyworks Inc
+CWV	Crown Point Energy Inc
+CXA.H	Consolidated Hci Holdings Corporation
+CYF	Canyon Creek Food CO Ltd
+CYL	Ceylon Graphite Corp
+CYM	Cymat Technologies Ltd
+CYON	Cyon Exploration Ltd
+CYP	Cypress Development Corp
+CZO	Ceapro Inc
+CZZ	Cleghorn Minerals Ltd
+DAC	Datable Technology Corp
+DAN	Arianne Phosphate Inc
+DASH	Neptune Digital Assets Corp
+DAU	Desert Gold Ventures Inc
+DB	Decibel Cannabis Company Inc.
+DB.DB	Decibel Cannabis CO Inc 9.5 Pct Debs
+DB.WT	Decibel Cannabis Company Inc Wts
+DBG	Doubleview Gold Corp.
+DCMC	Dore Copper Mining Corp
+DCOP	District Copper Corp
+DCY	Discovery-Corp. Enterprises Inc
+DE	Decisive Dividend Corp
+DEAL	Playgon Games Inc.
+DEC	Decade Resources Ltd
+DEF	Defiance Silver Corp
+DEFN	Defense Metals Corp
+DELX	Delphx Capital Markets Inc
+DEX	Almadex Minerals Ltd
+DFR	Diamond Fields Resources Inc
+DG	Dixie Gold Inc.
+DGHI	Digihost Technology Inc.
+DGO	Durango Resources Inc
+DGTL	Dgtl Holdings Inc
+DHR	Discovery Harbour Resources Corp
+DIG.H	District Mines Ltd
+DJI	Dajin Lithium Corp.
+DKL	Decklar Resources Inc.
+DLCG	Dominion Lending Centres Inc
+DLP	Dlp Resources (2020) Ltd
+DLTA	Delta Resources Ltd.
+DLV.H	Dv Resources Ltd
+DM	Datametrex Ai Ltd
+DME	Desert Mountain Energy Corp
+DMGI	Dmg Blockchain Solutions Inc
+DMI	Diamcor Mining Inc
+DMR	Damara Gold Corp
+DMX	District Metals Corp
+DOC	Cloudmd Software & Services Inc.
+DOS	Dios Exploration Inc
+DRC.H	Dragonfly Capital Corp
+DSM	Deep South Resources Inc
+DSV	Discovery Metals Corp
+DSY	Destiny Media Technologies Inc
+DV	Dolly Varden Silver Corp
+DVG	Divergent Energy Services Corp
+DWS	Diamond Estates Wines and Spirits Inc
+DXI.H	Dxi Energy Inc
+DXX	Dxstorm.com Inc.
+DYG	Dynasty Gold Corp
+EAC	Earth Alive Clean Technologies Inc
+EAC.WT	Earth Alive Clean Technologies Inc.
+EAM	East Africa Metals Inc
+EAST	Eastwest Bioscience Inc
+EAU	Engineer Gold Mines Ltd
+EBM	Eastwood Bio Medical Canada Inc
+ECC	Ethos Gold Corp
+ECM	Ecolomondo Corporation
+ECOM	Emerge Commerce Ltd
+ECR	Cartier Resources Inc
+ECU	Element 29 Resources Inc
+ECX.H	Eastcoal Inc
+EDDY	Edison Cobalt Corp
+EDG	Endurance Gold Corp
+EDW.H	Edgewater Exploration Ltd
+EFF	1844 Resources Inc
+EFH	Efh Holdings Inc
+EGA	Eagle Graphite Incorporated
+EGLD	Eclipse Gold Mining Corporation
+EGM	Engold Mines Ltd
+EGT	Eguana Technologies Inc
+EHT	Enerdynamic Hybrid Tech Corp
+EIL	Empire Industries Ltd
+EKG	Cardiocomm Solutions Inc
+EL	Engagement Labs Inc
+ELC	Elysee Development Corp
+ELE	Elemental Royalties Corp
+ELEC	Electric Royalties Ltd
+ELM	Element Lifestyle Retirement Inc
+ELN	El Nino Ventures Inc
+ELO	Eloro Resources Ltd
+ELXR	Elixxer Ltd.
+ELY	Ely Gold Royalties Inc
+EMH	Emerald Health Therapeutics Inc
+EMM	Giyani Metals Corp
+EMN	Euro Manganese Inc
+EMO	Emerita Resources Corp
+EMPR	Empress Royalty Corp
+EMR	Emgold Mining Corp
+EMX	Emx Royalty Corp
+ENDR	Enduro Metals Corp
+ENRG	New Energy Metals Corp
+ENTH.H	Entheos Capital Corp
+ENW	Enwave Corp
+ENW.WT	Enwave Corporation WT
+EOG	Eco Atlantic Oil and Gas Ltd
+EP	Empire Metals Corp
+EPL	Eagle Plains Resources Ltd
+EPO.H	Encanto Potash Corp
+EPX.H	Eshippers Management Ltd.
+EQ	Eq Inc
+EQG	Eqube Gaming Limited
+EQTY	Equity Metals Corporation
+ERA	Elcora Advanced Materials Corp
+ERC	Eros Resources Corp
+ERL.H	Earl Resources Limited
+ESE	Ese Entertainment Inc
+ESGW	ESG Global Impact Capital Inc.
+ESK	Eskay Mining Corp
+ESU	Eestor Corp
+ESX	Essex Minerals Inc
+ETF	Eastfield Resources Ltd
+ETMC	E3 Metals Corp
+ETU	E2Gold Inc
+EU	Encore Energy Corp
+EV	Erin Ventures Inc
+EVE	Eve and CO Incorporated
+EVE.WT	Eve and CO Incorporated WT
+EVER	Evergold Corp
+EVX	European Electric Metals Inc
+EW	East West Petroleum Corp
+EWK	Earthworks Industries Inc
+EWS	Environmental Waste International Inc
+EXG	Exgen Resources Inc
+EXP	Experion Holdings Ltd.
+EXRO	Exro Technologies Inc
+F	Fiore Gold Ltd.
+FA	Fountain Asset Corp
+FARM	Deveron Corp.
+FBF	Fab-Form Industries Ltd
+FCA.DB	Firm Cap Amer Rty Prn Corp 6.75 Pct Debs
+FCA.U	Firm Capital Apartment Real Estate Investment TR
+FCA.UN	Firm Capital Apartment Real Estate Investment TR
+FCA.WT.V	Firm Cap American Realty Part Trt Wts US
+FCC	First Cobalt Corp
+FCD.UN	Firm Capital Property Trust
+FCF	Founders Advantage Capital Corp
+FCO	Fabled Silver Gold Corp
+FD	Facedrive Inc
+FDI	Findev Inc
+FEO	Oceanic Iron Ore Corp
+FEX	Fjordland Exploration Inc
+FFOX	Firefox Gold Corp
+FG	Falcon Gold Corp
+FGC	Frontline Gold Corp
+FIL	Filo Mining Corp
+FIND	Baselode Energy Corp
+FISH	Sailfish Royalty Corp
+FKM	Fokus Mining Corporation
+FL	Frontier Lithium Inc
+FLT	Drone Delivery Canada Corp
+FLT.WT	Drone Delivery Canada Corp WT
+FLT.WT.A	Drone Delivery Canada Corp Wts A
+FLT.WT.B	Drone Delivery Canada Corp Wts B
+FLWR	The Flowr Corporation
+FLWR.WT	The Flowr Corporation WT
+FLY	Flyht Aerospace Solutions Ltd
+FMC	Forum Energy Metals Corp
+FMN	Fidelity Minerals Corp
+FMS	Focus Graphite Inc
+FNC	Fancamp Exploration Ltd
+FNR	49 North Resources Inc
+FO	Falcon Oil & Gas Ltd
+FOM	Foran Mining Corp
+FOR	Fortune Bay Corp
+FORT	Fortress Technologies Inc
+FP	Fp Newspapers Inc
+FPC	Falco Resources Ltd
+FPX	Fpx Nickel Corp
+FRE	Fremont Gold Ltd
+FRI	Freeport Resources Inc
+FRO.UN	Fronsac Real Estate Investment Trust
+FSX	Fosterville South Exploration Ltd
+FTEC	Fintech Select Ltd
+FTI	Fti Foodtech International Inc
+FTJ	Fort ST James Nickel Corp
+FUND	Katipult Technology Corp
+FUSE	Fuse Cobalt Inc.
+FUU	Fission 3.0 Corp
+FV	Firestone Ventures Inc
+FVAN	First Vanadium Corp
+FW	Flow Capital Corp
+FWZ	Fireweed Zinc Ltd
+FYL	Finlay Minerals Ltd
+GAL	Galantas Gold Corp
+GAME	Engine Media Hldg Inc.
+GAR.H	Green Arrow Resources Inc
+GASX	Ng Energy Intl Corp
+GASX.WT	Ngx Energy International Corp Wts
+GB	Ginger Beef Corp
+GBE	Lifestyle Global Brands Limited
+GBLT	Gblt Corp
+GBML	Global Battery Metals Ltd.
+GBR	Great Bear Resources Ltd
+GBRC	Gold Bull Resources Corp.
+GBU	Gabriel Res J
+GCC	Golden Cariboo Resources Ltd
+GCN	Goldcliff Resource Corp
+GCR	Gespeg Resources Ltd.
+GCX	Granite Creek Copper Ltd
+GDBO	Gold Rush Cariboo Corp
+GDM	Goldstar Minerals Inc
+GDNP	Good Natured Products Inc
+GDP	Golden Pursuit Resources Ltd
+GDX	Goldex Resources Corp
+GEM	Goldcore Resources Ltd.
+GEMC	Global Energy Metals Corp
+GENX	Genix Pharmaceuticals Corp
+GER	Glen Eagle Resources Inc
+GFG	Gfg Resources Inc
+GFM.H	Gfm Resources Ltd.
+GFP	Greenfirst Forest Products Inc
+GG	Galane Gold Ltd
+GGAU	Gambier Gold Corp.
+GGG	G6 Materials Corp.
+GGI	Garibaldi Resources Corp
+GGL	Ggl Resources Corp
+GGM	Granada Gold Mine Inc
+GGO	Galleon Gold Corp.
+GGX	Ggx Gold Corp
+GHL	Goldhills Holding Ltd.
+GIG.P	Xau Resources Inc
+GIGA	Giga Metals Corp
+GIII	Gen III Oil Corp
+GIS	Genesis Metals Corp
+GIT	Gitennes Exploration Inc
+GKO	Geekco Technologies Corporation
+GLB	Goldbank Mining Corp
+GLD	Goldon Resources Ltd
+GLDC	Cassiar Gold Corp.
+GLDL	Gold Line Resources Ltd
+GLDN	Golden Ridge Resources Ltd
+GLDX	Gold X Mining Corp.
+GLI	Glacier Lake Resources Inc
+GLW	Galway Gold Inc
+GMA	Geomega Resources Inc
+GMC	Gaia Metals Corp.
+GMIN	G Mining Ventures Corp
+GMN	Gobimin Inc
+GMTN	Gold Mountain Mining Corp
+GMV	Gmv Minerals Inc
+GNC	Gainey Capital Corp
+GNG	Golden Goliath Resources Ltd
+GNT	Gentor Resources Inc
+GOE	Goldeneye Resources Corp
+GOG	Golden Tag Resources Ltd
+GOK	Ginsms Inc
+GOM	Golden Dawn Minerals Inc
+GOP.H	Gourmet Ocean Products Inc
+GOT	Goliath Resources Limited
+GPCC.P	Green Panda Capital Corp
+GPG	Grande Portage Resources Ltd
+GPH	Graphite One Inc
+GPM	Gpm Metals Inc
+GPV	Greenpower Motor Company Inc
+GPY	Golden Predator Mining Corp
+GQC	Goldquest Mining Corp
+GR	Great Atlantic Resources Corp
+GRA	Nanoxplore Inc
+GRAT	Gratomic Inc
+GRB	Greenbriar Capital Corp
+GRDM	Grid Metals Corp
+GRF	Green Rise Foods Inc
+GRG	Golden Arrow Res Corp
+GRI	Galore Resources Inc
+GRN	Greenlane Renewables Inc
+GRN.WT	Greenlane Renewables Inc WT
+GROW	Co2 Gro Inc
+GRSL	Gr Silver Mining Ltd
+GRZ	Gold Reserve Inc
+GSD	Devonian Health Group Inc
+GSH	Golden Share Resources Corp
+GSI	Gatekeeper Systems Inc
+GSP	Gensource Potash Corp
+GSPR	Gsp Resource Corp
+GSR	Goldstrike Resources Ltd
+GSS	Gossan Resources Limited
+GTC	Getty Copper Inc
+GTEC	Gtec Holdings Ltd
+GTR	Gatling Exploration Inc
+GTT	GT Gold Corp
+GTWO	G2 Goldfields Inc
+GUF	Gulf & Pacific Equities Corp
+GUG	Gungnir Resources Inc
+GUN	Gunpoint Exploration Ltd
+GUS	Angus Gold Inc.
+GWA	Gowest Gold Ltd
+GWM	Galway Metals Inc
+GXS	Goldsource Mines Inc
+GXU	Goviex Uranium Inc
+GYA	Guyana Goldstrike Inc
+GZD	Grizzly Discoveries Inc
+GZZ	Golden Valley Mines Ltd
+HAKK.P	Hakken Capital Corp
+HAN	Hannan Metals Ltd
+HAND	Handa Mining Corp
+HANS	Hanstone Gold Corp
+HAPB	Hapbee Technologies Inc
+HAR	Harfang Exploration Inc
+HAWK	Hawkeye Gold and Diamond Inc
+HBK	Highbank Resources Ltd
+HCC	Hanna Capital Corp.
+HCO.P	Hansco Capital Corp
+HEI	Huntington Exploration Inc
+HELX	Helix Applications Inc
+HEM	Hemostemix Inc
+HEO	H2O Innovation Inc
+HEO.WT	H20 Innovation Inc Wts
+HFC	Hampton Financial Corp
+HFC.PR.A	Hampton Financial Corporation Pref A
+HI	Highland Copper Company Inc
+HIGH	Highgold Mining Inc
+HIH	Hylands International Hldg Inc
+HIP.WT.A	Newstrike Resources Ltd WT A
+HIRE	Hire Technologies Inc.
+HITI	High Tide Inc
+HITI.WT	High Tide Inc Wts
+HIVE	Hive Blockchain Technologies Inc
+HMAN	Huntsman Exploration Inc.
+HMCC.P	High Mountain 2 Capital Corporation
+HME	Hemisphere Energy Corp
+HMLO	Hemlo Explorers Inc.
+HMT	Halmont Properties Corp
+HOC	Hunter Technology Corp
+HOCL	Highwood Oil Company Ltd.
+HPQ	Hpq Silicon Resources Inc
+HPY	Happy Creek Minerals Ltd
+HRH	Hillcrest Petroleum Ltd
+HRL	Hansa Resources Limited
+HSI	H Source Holdings Ltd
+HSTR	Heliostar Metals Ltd
+HTC	Htc Purenergy Inc
+HTL	Hamilton Thorne Ltd
+HTR	Heatherdale Resources Ltd
+HUD	Hudson Resources Inc
+HVG	Harvest Gold Corp
+HVT	Harvest One Cannabis Inc
+HWY	Highway 50 Gold Corp
+HZ	Hybrid Minerals Inc
+IB	Ibc Advanced Alloys Corp
+IBC.H	International Bethlehem Mining Corp
+IBT	Ibex Technologies Inc
+ICAU	Intercontinental Gold and Metals Ltd
+ICL	Itasca Capital Ltd
+ICM	Iconic Minerals Ltd
+ICO	Ico Therapeutics Inc
+ID	Identillect Technologies Corp
+IDL	Imaging Dynamics Company Ltd
+IEI	Imperial Equities Inc
+IFOS	Itafos
+IFR	International Frontier Resources Corpora
+IFX	Imaflex Inc
+IGO	Independence Gold Corp
+IGP	Imperial Ginseng Products Ltd
+IGX	Intelgenx Technologies Corp
+IGX.DB	Intelgenx Technologies Corp 8.0 Pct Debs
+IGX.WT	Intelgenx Technologies Corp Wts
+ILC	International Lithium Corp
+ILI	Infinite Ore Corp.
+IMA	I-Minerals Inc
+IMI	International Millennium Mining Corp
+IMR	Imetal Resources Inc
+IMT	International Montoro Res. Inc
+INEO	Ineo Tech Corp
+INP	Input Capital Corp
+INX	Intouch Insight Ltd
+IO	Inca One Gold Corp
+IOM	Assure Holdings Corp
+ION	ION Energy Ltd
+IOT	Innovotech Inc
+IOU	Iou Financial Inc
+IPA	Immunoprecise Antibodies Ltd
+IPG	Imperial Mining Group Ltd
+IPT	Impact Silver Corp
+IQ	Airiq Inc
+IRI	Iemr Resources Inc
+IRO	Inter-Rock Minerals Inc
+ISD	Isign Media Solutions Inc
+ISGI	Insuraguest Technologies Inc
+ISO	Isoenergy Ltd
+ITG	Intact Gold Corporation
+ITM	Intema Solutions Inc
+ITR	Integra Resources Corp
+IVF.H	Invictus Financial Inc
+IVI	Ivrnet Inc
+IVS	Inventus Mining Corp
+IVX	Inventronics Limited
+IXI	Indigo Exploration Inc
+IZ	International Zeolite Corp
+IZN	Inzinc Mining Ltd
+IZZ	International Prospect Ventures Ltd
+JAB.P	Jabbo Capital Corp
+JADE	Jade Leader Corp
+JAEG	Jaeger Resources Corp
+JAX	Jaxon Mining Inc
+JCO	Jericho Oil Corp
+JDN	Jayden Resources Inc
+JEC	Jura Energy Corp
+JET	Global Crossing Airlines Group Inc
+JFC.H	Jaguar Financial Corporation
+JG	Japan Gold Corp
+JHC.H	Jinhua Capital Corp
+JJ	Jackpot Digital Inc
+JJ.WT.A	Jackpot Digital Inc Wts A
+JJ.WT.B	Jackpot Digital Inc Wts B
+JJ.WT.C	Jackpot Digital Inc Wts C
+JNH	Jack Nathan Medical Corp
+JOR	Jourdan Resources Inc
+JPWR.UN	Jade Power Trust
+JRV	Jervois Mining Ltd
+JSP.H	Jasper Mining Corporation
+JST.P	Justify Capital Corp
+JTC	Jemtec Inc
+JTR	Greenspace Brands Inc
+JUGR	Juggernaut Exploration Ltd
+JUMP	Leveljump Healthcare Corp
+JZR	Jazz Resources Inc
+KAY.H	Karsten Energy Corp
+KBG.H	Kings Bay Resources Corp
+KBY	Kona Bay Technologies Inc
+KC	Kutcho Copper Corp
+KCC	Kincora Copper Limited
+KDA	Kda Group Inc
+KDK	Kodiak Copper Corp.
+KDSX	Kadestone Capital Corp
+KEN	Kenadyr Mining Holdings Corp
+KES	Kesselrun Resources Ltd
+KFG	Kfg Resources Ltd
+KG	Klondike Gold Corp
+KGC	Kestrel Gold Inc
+KGF	King George Financial Corporation
+KGL	Kilo Goldmines Ltd
+KGS	Kingsman Minerals Ltd.
+KHA.H	Knighthawk Inc
+KHRN	Khiron Life Sciences Corp
+KHRN.WT	Khiron Life Sciences Corp Wts
+KIDZ	Kidoz Inc
+KING	King Global Ventures Inc
+KIP	Kiplin Metals Inc.
+KLD	Kenorland Minerals Ltd
+KLE.H	Kingsland Energy Corp
+KMAX	Organimax Nutrient Corp
+KNC	K9 Gold Corp.
+KNE	Kane Biotech Inc
+KNG	Kingsmen Resources Ltd
+KO	Kiaro Holdings Corp
+KORE	Kore Mining Ltd
+KRL	Kainantu Resources Ltd
+KS	Klondike Silver Corp
+KSI	Kneat.com Inc
+KTN	Kootenay Silver Inc
+KTN.WT	Kootenay Silver Inc WT
+KTO	K2 Gold Corp
+KTR	Kintavar Exploration Inc
+KUB	Cub Energy Inc
+KUR.H	Kure Technologies Inc
+KUT	Redishred Capital Corp
+KUU	Kuuhubb Inc
+KWE	Kwesst Micro Systems Inc
+KYS.H	Kaymus Resources Inc
+KZD	Kaizen Discovery Inc
+LA	Los Andes Copper Limited
+LAB	Labrador Gold Corp
+LAD	New Carolin Gold Corp
+LBC	Libero Copper & Gold Corp
+LBI	Lions Bay Capital Inc
+LBL	Lattice Biologics Ltd
+LBY	Liberty One Lithium Corp
+LDI	Lithoquest Resources Inc
+LEM	Leading Edge Materials Corp
+LEXI	Lithium Energi Exploration Inc
+LHI	Lendified Holdings Inc.
+LHR	Lakeview Hotel Invest Corp
+LHR.DB.C	Lakeview Hotel Invest Corp Ser C Debs
+LHR.DB.D	Lakeview Hotel Invest Corp Ser D Debs
+LI	American Lithium Corp
+LIO	Lion One Metals Limited
+LIO.WT	Lion One Metals Limited Wts
+LIS	Lithium South Development Corp
+LIT	Argentina Lithium and Energy Corp
+LITH	Lithium Chile Inc
+LITT	Roadman Investments Corp
+LKY	Lucky Minerals Inc
+LL	Canada Rare Earth Corp
+LLG	Mason Graphite Inc
+LM	Lingo Media Corp
+LME	Laurion Mineral Exploration Inc
+LMG	Lincoln Gold Mining Inc
+LMGC	Le Mare Gold Corp
+LMR	Lomiko Metals Inc
+LMS	Latin Metals Inc
+LNE.H	Loon Energy Corporation
+LOG.P	Logica Ventures Corp
+LOOP	Loopshare Ltd
+LORD	ST James Gold Corp
+LOT	Tomagold Corporation
+LPC	Lorne Park Capital Partners Inc
+LPK	Lupaka Gold Corp
+LPS	Legend Power Systems Inc
+LR	Luminex Resources Corp
+LRA	Lara Exploration Ltd
+LRC.H	Lovitt Resources Inc
+LRT.DB.G	Lanesborough REIT 5.0 Pct Ser G Debs
+LRT.UN	Lanesborough R.E. Investment Trust
+LSD.H	Lightspeed Discoveries Inc
+LSX	Lasalle Exploration Corp
+LSX.WT	Lasalle Exploration Corp Wts
+LTE	Lite Access Technologies Inc
+LTV	Leonovus Inc
+LUCK	Real Luck Group Ltd
+LUM	Lumina Gold Corp
+LWR	Lake Winn Resources Corp.
+LX.H	Lincoln Ventures Ltd
+LXE	Leucrotta Exploration Inc
+LXG	Lexagene Holdings Inc
+M	Mosaic Capital Corp
+M.DB	Mosaic Capital Corp 7.0 Pct Debs
+MAC	Themac Resources Group Limited
+MAE	Maritime Resources Corp
+MAH	Marksmen Energy Inc
+MAI	Minera Alamos Inc
+MAP	Maple Peak Investments Inc
+MAPS	Prostar Holdings Inc
+MAS	Mas Gold Corp
+MAU	Montage Gold Corp
+MAZ.H	Mazarin Inc
+MBI.H	Med Biogene Inc
+MBO	Mobio Technologies Inc
+MCA.H	Milner Consolidated Silver Mines Ltd
+MCG	Mountain China Resorts Holding Ltd
+MCI	Minnova Corp
+MCLD	Mcloud Technologies Corp.
+MCLD.DB	Mcloud Technologies Corp 10 Pct Debs
+MCLD.WS	Mcloud Technologies Corp Wts
+MCLD.WT	Mcloud Technologies Corp Wts
+MCM.A	Matachewan Cons Mines
+MCR	Macro Enterprises Inc
+MCS	Mcchip Resources Inc
+MCU	Mega Copper Ltd
+MCX	Mcorpcx Inc
+MD	Midland Exploration Inc
+MDL	Medallion Resources Ltd
+MDP	Medexus Pharmaceuticals Inc
+MDP.DB	Medexus Pharmaceuticals Inc 6.0 Pct Debs
+MDV	Megastar Development Corp
+MDX	Medx Health Corp
+MED	Medgold Resources Corp
+MEK	Metals Creek Resources Corp
+MENE	Mene Inc
+MET	Metalore Resources Limited
+MEX	Mexican Gold Mining Corp.
+MEX.WT	Mexican Gold Corp Wts
+MFM	Marifil Mines Ltd
+MFX	Minfocus Exploration Corp
+MGC.H	Midasco Capital Corp
+MGG	Minaurum Gold Inc
+MGI	Magnum Goldcorp Inc
+MGM	Maple Gold Mines Ltd
+MGM.WT	Maple Gold Mines Ltd WT
+MGR	Magna Gold Corp
+MGZ.H	Mangazeya Mining Ltd
+MILE	Last Mile Holdings Ltd.
+MIMI	Mimis Rock Corp
+MINE	Inomin Mines Inc
+MIR	Medmira Inc
+MIT	The Mint Corporation
+MJS	Majestic Gold Corp
+MKA	Mkango Resources Ltd
+MKO	Mako Mining Corp
+MKO.WT.A	Mako Mining Corp Wts A
+MKR	Melkior Resources Inc
+MKT	Deepmarkit Corp
+ML	Millennial Lithium Corp
+MLY	American Cumo Mining Corporation
+MMA	Midnight Sun Mining Corp
+MMG	Metallic Minerals Corp
+MMM	Minco Capital Corp
+MMN	Monarca Minerals Inc
+MMO.H	Mount Dakota Energy Corp
+MMS	Macarthur Minerals Limited
+MMV	Mineral Mountain Resources Ltd
+MMY	Monument Mining Limited
+MN	Manganese X Energy Corp
+MNC	Magnetic North Acquisition Corp
+MNC.PR.A	Magnetic North Acquisition Corp Pref
+MNO	Meridian Mining Societas Europaea
+MNX	Manitex Capital Inc.
+MON	Montero Mining and Exploration Ltd
+MOO.P	Moon River Capital Ltd
+MOON	Blue Moon Zinc Corp
+MOS	Mobi724 Global Solutions Inc
+MOX	Morien Resources Corp
+MPH	Medicure Inc
+MPT	Midpoint Holdings Ltd
+MRO	Millrock Resources Inc
+MRS	Mission Ready Solutions Inc
+MRZ	Mirasol Resources Ltd
+MSMJ.P	Mj Innovation Capital Corp
+MSP	Minaean SP Construction Corp
+MSR	Minsud Resources Corp
+MT	M3 Metals Corp
+MTA	Metalla Royalty & Streaming Ltd
+MTB	Mountain Boy Minerals Ltd
+MTC	Metalcorp Ltd
+MTH	Mammoth Resources Corp
+MTLO	Martello Technologies Group Inc
+MTRX	Loop Insights Inc
+MTS	Metallis Resources Inc
+MTT	Magna Terra Minerals Inc
+MTU	Manitou Gold Inc
+MTX	Metalex Ventures Ltd
+MUN	Mundoro Capital Inc
+MUR	Murchison Minerals Ltd
+MUST.H	Must Capital Inc
+MVAI	Minerva Intelligence Inc
+MVD.H	Mega View Digital Entertainment Corp
+MVI.H	Monitor Ventures Inc
+MVP	Mediavalet Inc
+MVY	Moovly Media Inc
+MWX	Mineworx Technologies Ltd
+MXL.H	Mx Gold Corp
+MXR	Max Resource Corp
+MYID	Killi Ltd.
+N	Namaste Technologies Inc.
+N.WT.A	Namaste Technologies Inc WT A
+NAM	New Age Metals Inc
+NAN	North American Nickel Inc
+NAR	North Arrow Minerals Inc
+NBR	Nubian Resources Ltd
+NBVA	Nubeva Technologies Ltd
+NBY	Niobay Metals Inc
+NCAU	Newcore Gold Ltd
+NCI	Ntg Clarity Networks Inc
+NCX	Northisle Copper and Gold Inc
+NDVA	Indiva Limited
+NED	New Destiny Mining Corp
+NEE	Northern Vertex Mining Corp
+NER	Newmac Resources Inc
+NEV	Nevada Sunrise Gold Corp
+NEWU	Newtopia Inc
+NEXE	Nexe Innovations Inc
+NFG	New Found Gold Corp
+NGC	Northern Graphite Corp
+NGE	Nevada Exploration Inc
+NGEN	Nervgen Pharma Corp
+NGEX	Ngex Minerals Ltd
+NGLD	New Placer Dome Gold Corp
+NGY	Nexera Energy Inc.
+NHP	Lumiera Health Inc
+NHT.U	Nexpoint Hospitality Trust USD
+NICL	Nickel Rock Resources Inc
+NIKL	Gk Resources Ltd
+NIM	Nicola Mining Inc
+NIO	Niocan Inc
+NIP	Nippon Dragon Resources Inc
+NIR	Noble Iron Inc
+NKL	Conic Metals Corp
+NKW	Oceanic Wind Energy Inc.
+NL	Northern Lion Gold Corp
+NLC	NEO Lithium Corp
+NLH	Nova Leap Health Corp
+NLTA	Enlighta Inc
+NMG.H	Noble Metal Group Incorporated
+NMI	Namibia Critical Metals Inc
+NNO	Nano One Materials Corp
+NNX	Nickel North Exploration Corp
+NOB	Noble Mineral Exploration Inc
+NOC	Norseman Silver Inc.
+NOCR	Norden Crown Metals Corp
+NORA	Norra Metals Corp
+NOT	Noront Resources Ltd
+NOU	Nouveau Monde Graphite Inc
+NOVR	Nova Royalty Corp
+NPA	Alphinat Inc
+NPR	North Peak Resources Ltd
+NPTH	Neupath Health Inc.
+NRG	Newrange Gold Corp
+NRM	Noram Ventures Inc
+NRN	Northern Shield Resources Inc
+NRTH	48North Cannabis Corp
+NRTH.WT	48North Cannabis Corp WT
+NSCI	Nanalysis Scientific Corp
+NSE	New Stratus Energy Inc
+NSP	Naturally Splendid Enterprises Ltd
+NSX	Nsgold Corp
+NTE	Network Media Group Inc
+NTS	Nanotech Security Corp
+NU	Neutrisci International Inc
+NUG	Nulegacy Gold Coporation
+NUMI	Numinus Wellness Inc
+NUMI.WT	Numinus Wellness Inc Wts
+NVI	Novra Technologies Inc
+NVO	Novo Resources Corp
+NVO.WT	Novo Resources Corp Wts
+NVT	Nortec Minerals Corp
+NVV	Norvista Capital Corp
+NVX	NV Gold Corp
+NVY	Navy Resources Corp
+NWE	New West Energy Services Inc
+NWX	Newport Exloration Ltd
+NXG	Nexgenrx Inc
+NXO	Nexoptic Technology Corp
+NXR.UN	Nexus Real Estate Investment Trust
+NXS	Nexus Gold Corp
+NZ	New Zealand Energy Corp
+NZN	Nevada Zinc Corp
+NZP	Chatham Rock Phosphate Limited
+OCG	Outcrop Gold Corp
+OCO	Oroco Resource Corp
+ODV	Osisko Development Corp
+ODX.H	Odyssey Resources Ltd
+OEE	Memex Inc
+OG	Organic Garage Ltd
+OGN	Orogen Royalties Inc.
+OGO	Organto Foods Inc
+OIC	Origin Gold Corporation
+OIII	O3 Mining Inc
+OLV	Olivut Resources Ltd
+OM	Osisko Metals Incorporated
+OMG	Omai Gold Mines Corp
+OML	Omni-Lite Industries Canada Inc
+OMM	Omineca Mining and Metals Ltd
+ONE	01 Communique Laboratory Inc
+ONV.H	Oronova Energy Inc
+OOR	Opus One Gold Corp
+OPHR	Ophir Gold Corp
+OPV	Optimum Ventures Ltd
+OPW	Opawica Explorations Inc
+ORC.B	Orca Energy Group Inc. Cl B
+ORE	Orezone Gold Corp
+ORE.WT	Orezone Gold Corporation Wts
+ORG	Orca Gold Inc
+ORM	Orford Mining Corporation
+ORO	New Oroperu Resources Inc
+OROX	Oro X Mining Corp
+ORS	Orestone Mining Corp
+ORX	Orefinders Resources Inc
+OSI	Osino Resources Corp
+OSS	Onesoft Solutions Inc
+OSU	Orsu Metals Corp
+OTS.H	Optimus Gold Corp
+OTSO	Otso Gold Corp.
+OVT	Oculus Visiontech Inc
+OYL	Cgx Energy Inc
+PA	Palamina Corp
+PAC	Pacton Gold Inc
+PAI	Predictive Ai Inc.
+PAN	Pangolin Diamonds Corp
+PANO.P	Panorama Capital Corp
+PAS	Pascal Biosciences Inc
+PBM	Pacific Bay Minerals Ltd
+PBX	Powerband Solutions Inc
+PCLO	Pharmacielo Ltd
+PCO	Phoenix Canada Oil Co.Ltd.
+PCQ	Petrolympic Ltd
+PDH	Premier Diversified Holdings Inc
+PDM	Palladium One Mining Inc
+PE	Pure Energy Minerals Limited
+PEAK	Sun Peak Metals Corp
+PEGA	Pegasus Resources Inc
+PEI	Prospera Energy Inc
+PEMC	Pacific Empire Minerals Corp
+PEO	People Corp
+PER	Peruvian Metals Corp
+PERU	Chakana Copper Corp
+PEX	Pacific Ridge Exploration Ltd
+PEZM.H	Greenshield Explorations Limited
+PFC	Petrofrontier Corp.
+PFM	Prontoforms Corp
+PGC	Plato Gold Corp
+PGDC	Patagonia Gold Corp
+PGE	Group Ten Metals Inc
+PGLD	P2 Gold Inc.
+PGM	Pure Gold Mining Inc
+PGP	Power Group Projects Corp
+PGV	Prodigy Ventures Inc
+PGX	Prosper Gold Corp
+PGZ	Pan Global Resources Inc
+PHA	Premier Health of America Inc
+PHD	Providence Gold Mines Inc
+PHI	Philippine Metals Inc
+PINE.UN	Pine Trail Real Estate Investment Trust
+PINK	Perimeter Medical Imaging Ai Inc
+PJT	Partner Jet Corp
+PJX	Pjx Resources Inc
+PKAN	Purek Holdings Corp
+PKT	Parkit Enterprise Inc
+PLA	Plata Latina Minerals Corp
+PLAN	Progressive Planet Solutions Inc
+PLU	Plateau Energy Metals Inc
+PLUR	Plurilock Securityinc
+PLY	Playfair Mining Ltd
+PML	Panoro Minerals Ltd
+PMO.H	Prime City One Capital Corp
+PMR	Prime Meridian Resources Corp
+PMX	Proam Exploration Corp
+PNG	Kraken Robotics Inc
+POE	Pan Orient Energy Corp
+POG	Perisson Petroleum Corp
+POND	Pond Technologies Holdings Inc
+POOL	Pool Safe Inc
+POPR	Popreach Corporation
+POR	Portofino Resources Inc
+PP	Pacific Silk Road Res Group Inc
+PPE.H	Pacific Paradym Energy Inc
+PPK	Prospect Park Capital Corp
+PPM	Pacific Imperial Mines Inc
+PPX	Ppx Mining Corp
+PQE	Petroteq Energy Inc
+PRB	Probe Metals Inc
+PRE	Paleo Resources Inc
+PRG	Precipitate Gold Corp
+PRH	Pearl River Holdings Limited
+PRO	Pershimex Resources Corp
+PROS.H	Prosmart Enterprises Inc
+PRS	Prism Resources Inc
+PRSN	Personas Social Inc.
+PRYM	Prime Mining Corp
+PSEC	Prairie Storm Resources Corp
+PSH	Petroshale Inc
+PSL	Prospero Silver Corp
+PST	Pistol Bay Mining Inc
+PSYF.P	Ghp Noetic Science Psychedelic Pharm Inc
+PTC	Petrox Resources Corp
+PTE	Pioneering Technology Corp
+PTF	Pender Growth Fund Inc
+PTK	Poet Technologies Inc
+PTP.H	Petrichor Energy Inc
+PTQ	Protech Home Medical Corp
+PTQ.DB.A	Protech Home Medicalcorp 8 Pct Debs
+PTU	Purepoint Uranium Group Inc
+PUC	Pancontinental Resources Corp
+PUL	Pulse Oil Corp
+PUMA	Puma Exploration Inc
+PURX	Pure Extraction Corp
+PVF.PR.U	Partners Value Investments Series 1 Pref
+PVF.UN	Partners Value Investments LP
+PVT	Pivotree Inc
+PWM	Power Metals Corp
+PX	Pelangio Exploration Inc
+PXA	Phoenix Gold Resources Corp
+PXI	Planet Ventures Inc
+QCCU	QC Copper and Gold Inc.
+QCX	Qcx Gold Corp
+QEX	Questex Gold & Copper Ltd.
+QGR	Q Gold Resources Ltd
+QIS	Quorum Information Technologies Inc
+QMC	Qmc Quantum Minerals Corp
+QMX	Qmx Gold Corp
+QNC	Quantum Numbers Corp
+QPM	Quebec Precious Metals Corporation
+QPT	Quest Pharmatech Inc
+QRC	Queens Road Capital Investment Ltd
+QRO	Quadro Resources Inc
+QST	Questor Technology Inc
+QTA	Quaterra Resources Inc
+QUIS	Quisitive Technology Solutions Inc
+QUIS.WT	Quisitive Technology Solutions Inc Wts
+QYOU	Qyou Media Inc
+QZM	Quartz Mountain Resources Ltd
+RAK	Rackla Metals Inc
+RBX	Robex Resources Inc
+RCK	Rock Tech Lithium Inc
+RCT	Rochester Resources Ltd
+RDG	Ridgeline Minerals Corp
+RDS	Radisson Mining Resources Inc
+RDU	Radius Gold Inc
+RE	Re Royalties Ltd
+REAX	The Real Brokerage Inc
+REBL.P	Genesis Acquisition Corp
+RECO	Reconnaissance Energy Africa Ltd
+RECO.WT	Reconnaissance Energy Africa Wts
+REG	Regulus Resources Inc
+REKO	Reko International Group Inc
+REL	Roughrider Exploration Limited
+RENT.P	Shine Box Capital Corp
+RET	Reitmans Canada
+RET.A	Reitmans [Canada] Ltd Cl.A NV
+REVO	Revolugroup Canada Inc.
+REX	Orex Minerals Inc
+RFC	Rifco Inc
+RG	Romios Gold Resources Inc
+RGD	Reunion Gold Corp
+RGI	Reco International Group Inc.
+RGM.H	Remington Resources Inc
+RHC	Royal Helium Ltd.
+RHNO.P	Blue Rhino Capital Corp
+RHT	Reliq Health Technologies Inc
+RII.K	Richco Investors Inc Sv
+RIO	Rio2 Limited
+RIWI	Riwi Corp
+RJX.A	Rjk Explorations Ltd Cl.A Sv
+RK	Rockhaven Resources Ltd
+RKR	Rokmaster Resources Corp
+RLP	Realia Properties Inc.
+RLV	Relevium Technologies Inc
+RLYG	Riley Gold Corp
+RM	Routemaster Capital Inc
+RMD	Richmond Minerals Inc
+RMI	Ridgestone Mining Inc
+RMK	Red Moon Resources Inc
+RML	Rusoro Mining Ltd
+RMO	Rainy Mountain Royalty Corp
+RNP	Royalty North Partners Ltd
+ROCK	Rockridge Resources Ltd
+ROE	Renaissance Oil Corp
+ROE.WT.B	Renaissance Oil Corp Wts B
+ROI	Route1 Inc
+ROK	Rok Resources Inc.
+ROMJ	Rubicon Organics Inc
+ROS	Roscan Gold Corporation
+ROVR	Rover Metals Corp
+ROX	Canstar Resources Inc
+RP	Replicel Life Sciences Inc
+RPC	Raise Production Inc
+RPP	Regent Pacific Properties Inc
+RPX	Red Pine Exploration Inc
+RRI	Riverside Resources Inc
+RRR.UN	R and R Real Estate Investment Trust
+RRS	Rogue Resources Inc
+RSLV	Reyna Silver Corp
+RSS	Resaas Services Inc
+RSV	Resolve Ventures Inc
+RSY.H	Rsi International Systems Inc
+RTH	Rathdowney Resources Ltd
+RTI	Radient Technologies Inc
+RTM	Rt Minerals Corp
+RUG	Rugby Mining Limited
+RUM	Rocky Mountain Liquor Inc
+RUN.H	Running Fox Resource Corp
+RUP	Rupert Resources Ltd
+RVG	Revival Gold Inc
+RVL	Revelo Resources Corp
+RW	Renoworks Software Inc
+RWR.H	Rockwealth Resources Corp
+RX	Biosyent Inc
+RYE	Rhyolite Resources Ltd
+RYO	Rio Silver Inc
+RYR	Royal Road Minerals Limited
+RYU	Ryu Apparel Inc
+RZE	Razor Energy Corp
+RZZ	Abitibi Royalties Inc
+SA.H	Southern Arc Minerals Inc.
+SAE	Sable Resources Ltd
+SAG	Sterling Metals Corp
+SAH	Sahara Energy Ltd
+SAI.H	Sunshine Agri Tech Inc
+SAO	South Atlantic Gold Inc
+SARG.P	Jessy Ventures Corp
+SAT	Asian Television Network Int Ltd
+SAY	Sparta Capital Ltd
+SB	Stratabound Minerals Corp
+SBM	Sirona Biochem Corp
+SC.H	Serrano Resources Ltd
+SCLT	Searchlight Resources Inc
+SCOT	Scottie Resources Corp
+SCPO.UN	Starlight US Multi Family 1 Core Plus Fd
+SCT	Skychain Technologies Inc
+SCZ	Santacruz Silver Mining Ltd
+SDC	Solidusgold Inc
+SDE	Spartan Delta Corp.
+SDI	Stampede Drilling Inc
+SDR	Stroud Resources Ltd
+SEB	Smart Employee Benefits Inc
+SEI	Sintana Energy Inc
+SEV	Spectra7 Microsystems Inc
+SFI	Solution Financial Inc
+SFR	Sandfire Resources America Inc
+SFR.RT	Sandfire Resources America Inc RTS
+SFT	Softrock Minerals Ltd
+SFX	Sphinx Resources Ltd
+SGC	Solstice Gold Corp
+SGE	Strategem Capital Corp
+SGI	Superior Gold Inc
+SGMA	Sigma Lithium Resources Corp
+SGN	Scorpio Gold Corp
+SGO	Sonoro Gold Corp.
+SGU	Signature Resources Ltd
+SGZ	Sego Resources Inc
+SHG	Skylight Health Group Inc.
+SHL	Spruce Ridge Resources Ltd
+SIC	Sokoman Minerals Corp
+SIE	Sienna Resources Inc
+SIQ	Siq Mountain Industries Inc
+SIR	Serengeti Resources Inc
+SJL	Saint Jean Carbon Inc
+SJR.A	Shaw Communications Inc
+SKP	Strikepoint Gold Inc
+SKRR	Skrr Exploration Inc
+SKYG	Sky Gold Corp
+SLG	San Lorenzo Gold Corp
+SLL	Standard Lithium Ltd
+SLS	Solaris Resources Inc
+SLVR	Silver Tiger Metals Inc.
+SMD	Strategic Metals Ltd
+SME	Sama Resources Inc Ressources Sama Inc
+SMG.H	Sierra Madre Developments Inc
+SML	Southstone Minerals Ltd.
+SMM	Silver Mountain Mines Inc
+SMN	Sun Summit Minerals Corp
+SMP	Southern Empire Resources Corp
+SMR	Shine Minerals Corp
+SMY	Search Minerals Inc
+SNF	Sunora Foods Inc
+SNG	Silver Range Resources Ltd
+SNM	Shamaran Petroleum Corp
+SNS	Select Sands Corp
+SNV	Sonoro Energy Ltd
+SOC	Sonora Gold & Silver Corp
+SOCK	Smooth Rock Ventures Corp
+SOI	Sirios Resources Inc
+SOIL	Saturn Oil and Gas Inc
+SOLR	Solar Alliance Energy Inc
+SOMA	Soma Gold Corp.
+SOU	Southern Energy Corp
+SPA	Spanish Mountain Gold Ltd
+SPD	Silver Predator Corp
+SPDR	Spyder Cannabis Inc
+SPI	Canadian Spirit Resources Inc
+SPN	Snipp Interactive Inc
+SPOT	Goldspot Discoveries Corp
+SPP	Spot Coffee Ltd.
+SPS.A	Sportscene Group Inc
+SPX	Stellar Africagold Inc
+SQD	Sqi Diagnostics Inc
+SQG	Spackman Equities Group Inc
+SR	Strategic Resources Inc
+SRC	Stakeholder Gold Corp
+SRE	Saville Resources Inc
+SRES	Sun Residential REIT
+SRG	Srg Graphite Inc
+SRI	Sparton Resources Inc
+SRL	Salazar Resources Limited
+SSA	Spectra Products Inc.
+SSE	Silver Spruce Resources Inc
+SSV	Southern Silver Exploration Corp
+SSVR	Summa Silver Corp.
+STA	Sanatana Resources Inc
+STC	Sangoma Technologies Corp
+STE	Starr Peak Exploration Ltd
+STG	Stone Gold Inc.
+STH	Stelmine Canada Ltd
+STMP	Stamper Oil & Gas Corp
+STND	Standard Uranium Ltd
+STR.H	Santa Rosa Resources Corp
+STS	South Star Mining Corp
+STU	Stuhini Exploration Ltd
+STUV	Stuve Gold Corp
+SUGR	Sugarbud Craft Growers Corp
+SUGR.WS	Sugarbud Craft Growers Corp Ws
+SUGR.WT	Sugarbud Craft Growers Corp WT
+SUI	Superior Mining International Corp
+SUNM	Sun Metals Corp
+SUP	Northern Superior Resources Inc
+SUPR	Supernova Metals Corp.
+SUR	Surge Exploration Inc
+SURG	Surge Copper Corp
+SV.H	Savannah Minerals Corp
+SVA	Sernova Corp
+SVE	Silver One Resources Inc
+SVG	Silver Grail Resources Ltd
+SVI	Storagevault Canada Inc
+SVI.DB	Storagevault Canada Inc 5.75 Pct Debs
+SVS	Solarvest Bioenergy Inc
+SWA	Sarama Resources Ltd
+SWLF	Silver Wolf Exploration Ltd
+SXL	Slam Exploration Inc
+SYH	Skyharbour Resources Ltd
+SYZ	Sylogist Ltd
+SZM	Scozinc Mining Ltd
+TAJ	Tajiri Resources Corp
+TAL	Petrotal Corp
+TAO	Tag Oil Ltd
+TAU	Thesis Gold Inc
+TBIX	Trustbix Inc
+TBLL	Tombill Mines Ltd
+TBR	Timberline Resources Corp
+TBRD	Thunderbird Entertainment Group Inc
+TBX	Turmalina Metals Corp
+TCA	Timia Capital Corp
+TCA.PR.A	Timia Capital Corp Pref A
+TCAP.P	Tri Capital Opportunities Corp
+TCO	Transatlantic Mining Corp
+TDG	Tdg Gold Corp
+TECT	Tectonic Metals Inc
+TELO	Telo Genomics Corp
+TEM	Tembo Gold Corp
+TES	Tesoro Minerals Corp
+TEST	Flurotech Ltd
+TG	Trifecta Gold Ltd
+TGH	Tornado Global Hydrovacs Ltd
+TGM	Trillium Gold Mines Inc
+TGR	Tiger International Resources
+TGS	Tgs Esports Inc
+TGX	True North GEMS Inc
+THM	Thunder Mountain Gold Inc
+THNK	Think Research Corp
+THP	Totally Hip Technologies Inc
+THRM	Therma Bright Inc
+THX	Thor Explorations Ltd
+TIC	Titanium Corporation Inc
+TIG	Triumph Gold Corp
+TII	Terra Firma Capital Corp
+TIL	Till Capital Corp.
+TIN.H	Eurotin Inc
+TIP.H	Tyner Resources Ltd
+TK	Tinka Resources Ltd
+TKU	Tarku Resources Ltd
+TKX	Trackx Holdings Inc
+TLA	Titan Logix Corp
+TLT	Theralase Technologies Inc
+TLT.WT	Theralase Technologies Inc WT
+TM	Trigon Metals Inc
+TMC	Trench Metals Corp
+TMG	Thermal Energy International Inc
+TMRR	Tempus Resources Ltd
+TMS.H	Targeted Microwave Solutions Inc
+TNA	Evergreen Gaming Corp
+TNO.H	Terreno Resources Corp
+TNR	Tnr Gold Corp
+TOE	Tri Origin Exploration Ltd
+TOM	Amilot Capital Inc
+TORO	Pucara Gold Ltd
+TORQ	Torq Resources Inc
+TORR	Torrent Capital Ltd
+TPC	Tenth Avenue Petroleum Corp
+TPL	Tethys Petroleum Limited
+TR	Troubadour Resources Inc
+TRA	Teras Resources Inc
+TRAD	Voleo Trading Systems Inc
+TRC	Tisdale Resources Corp
+TRCE	Terrace Global Inc
+TRO	Taranis Resources Inc
+TRS	Tres-Or Resources Ltd
+TRU	Tru Precious Metals Corp
+TSD	Tsodilo Resources Ltd
+TSG	Tristar Gold Inc
+TSN	Telson Mining Corp
+TTD	Tinkerine Studios Ltd
+TTG	Trans Canada Gold Corp
+TTR	Titanium Transportation Group Inc
+TTS	Tintina Mines Ltd
+TTZ	Total Telcom Inc
+TUD	Tudor Gold Corp
+TUF	Honey Badger Silver Inc
+TUO	Teuton Resources Corp
+TVI	Tvi Pacific Inc
+TWR	Tower Resources Ltd
+TYMB	Tymbal Resources Ltd.
+TYP	Typhoon Exploration Inc
+TZR	Terrace Energy Corp
+TZR.DB	Terrace Energy Corp Debs
+UCU	Ucore Rare Metals Inc
+UFC	Urbanfund Corp
+UGD	Unigold Inc
+UGE	Uge International Ltd
+UGM	Urbangold Minerals Inc
+UI	Urbanimmersive Inc
+ULT	Ultra Resources Inc.
+UNO.H	Northern Uranium Corp
+UNV	Universal Copper Ltd.
+UPI	Universal Proptech Inc
+URC	Uranium Royalty Corp
+URC.WT	Uranium Royalty Corp Wts
+USHA	Usha Resources Ltd
+USS	Uniserve Communications Corp
+UVN	Uravan Minerals Inc.
+UWE.H	U3O8 Corp
+VAU	Viva Gold Corp
+VAX	Vantex Resources Ltd
+VCI	Vitreous Glass Inc
+VCOM	Vivere Communities Inc
+VDO.H	Nevado Resources Corporation
+VEC	Vanadian Energy Corp
+VEIN	Pasofino Gold Ltd.
+VENZ	Venzee Technologies Inc
+VERT	Vertical Explorations Inc
+VG	Volcanic Gold Mines Inc
+VGD	Visible Gold Mines Inc
+VGL	Vigil Health Solutions Inc
+VGN	Greencastle Res Ltd
+VHI	Vitalhub Corp
+VIO	Vior Inc
+VIPR	Silver Viper Minerals Corp
+VIS	Visionstate Corp
+VISN	Eyecarrot Innovations Corp
+VIV	Avivagen Inc
+VIZ	Visionary Gold Corp
+VKG.H	Norse Gold Corp
+VLC	Velocity Minerals Ltd
+VLCY.P	Vlcty Capital Inc
+VLDY.P	Valdy Investments Ltd
+VLI	Vision Lithium Inc
+VLV	Venerable Ventures Ltd
+VM	Voyageur Pharmaceuticals Ltd
+VML	Viscount Mining Corp
+VMX	Victory Metals Inc
+VO	Valore Metals Corp
+VONE	Vanadium One Iron Corp
+VOTI	Voti Detection Inc
+VOX	Vox Royalty Corp.
+VPI	Vitality Products Inc
+VPT	Ventripoint Diagnostics Ltd
+VQA	Valterra Resource Corp
+VQS	Viq Solutions Inc
+VRB	Vanadiumcorp Resource Inc
+VRD.H	Viridis Holdings Corp
+VRR	Vr Resources Ltd
+VRY	Petro Victory Energy Corp
+VSR	Vanstar Mining Resources Inc
+VTI	Valdor Technology International Inc
+VTT	Vendetta Mining Corp
+VTX	Vertex Resource Group Ltd
+VUI	Virginia Energy Resources Inc
+VUL	Vulcan Minerals Inc
+VUX	Vital Energy Inc
+VVC	Vvc Exploration Corp
+VXL	Vaxil Bio Ltd
+VYC.H	Vanity Capital Inc
+VZLA	Vizsla Resources Corp
+VZZ	Val-D'Or Mining Corp
+WA	Western Atlas Resources Inc
+WAR	Warrior Gold Inc
+WATR	Current Water Technologies Inc
+WAVE	Waverley Pharma Inc
+WBE	Westbond Enterprises Corp
+WCC	Consolidated Woodjam Copper Corp
+WCE	Wescan Energy Corp
+WE	Wecommerce Holdings Ltd
+WEB.H	Westbridge Energy Corporation
+WED	The Westaim Corp
+WEE	Wavefront Technology Solutions Inc
+WEII	Wolverine Energy and Infrastructure Inc
+WGF	Wescan Goldfields Inc
+WGLD	Western Gold Exploration Ltd
+WGO	White Gold Corp
+WHG	Whitehorse Gold Corp
+WHM	White Metal Resources Corp
+WHN	Westhaven Gold Corp.
+WHY	West High Yield Resources Ltd
+WI	The Western Investment CO of Cda Ltd
+WIL	Wilton Resources Inc
+WIN	Windfall Geotek Inc
+WINS	Winshear Gold Corp.
+WISH	Wishpond Technologies Ltd
+WKG	Westkam Gold Corp
+WLF	Wolfden Resources Corp
+WLTR	Golo Mobile Inc
+WMD	Weedmd Inc
+WMD.DB	Weedmd Inc 8.5 Pct Debs
+WMD.WT	Weedmd Inc WT
+WMG	Western Magnesium Corporation
+WMK	Whitemud Resources Inc
+WML	Wealth Minerals Ltd
+WMR	Westminster Resources Ltd
+WOW	Wow Unlimited Media Inc
+WR.H	Worldwide Resources Corp
+WRI	Waseco Resources Inc
+WRR	Walker River Resources Corp
+WRY.H	Western Troy Capital Resources Inc
+WSK	Wildsky Resources Inc
+WT.H	Wangton Capital Corp.
+WTR	Westcore Energy Ltd
+WVM	West Vault Mining Inc
+WWT	Water Ways Technologies Inc
+XAG	Xtierra Inc
+XBC	Xebec Adsorption Inc
+XBC.R	Xebec Adsorption Inc Sub Rcpts
+XIA	Xiana Mining Inc
+XIM	Ximen Mining Corp
+XL	Xxl Energy Corp
+XLY	Auxly Cannabis Group Inc
+XND	Xander Resources Inc
+XPLR	Xplore Resources Corp
+XTM	Transition Metals Corp
+XTT	X Terra Resources Inc
+XX	Avante Logixx Inc
+XYZ.P	First Light Capital Corp
+YAK	Mongolia Growth Group Ltd
+YDX	Ydx Innovation Corp
+YEG	Yorkton Equity Group Inc
+YES	Char Technologies Ltd
+YGT	Gold Terra Resource Corp.
+YNV	Ynvisible Interactive Inc
+YOO	Yangaroo Inc
+YSS	Yss Corp
+YTY	Wi2Wi Corp
+YVI	Yorkton Ventures Inc
+ZC	Zimtu Capital Corp
+ZCC.H	Zena Mining Corp
+ZDC	Zedcor Inc.
+ZEN	Zen Graphene Solutions Ltd.
+ZFR	Zephyr Minerals Ltd
+ZMA	Zoomaway Travel Inc
+ZNG	Group Eleven Resources Corp
+ZNX	Zincx Resources Corp
+ZOMD	Zoomd Technologies Ltd
+ZON	Zonte Metals Inc
+ZONE	Zonetail Inc
+ZUM	Zoomermedia Limited
