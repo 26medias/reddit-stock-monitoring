@@ -42,6 +42,10 @@ class Monitor:
     print("Monitoring")
     self.df = False
     self.df_name = False
+    if os.path.exists('datasets.pkl'):
+      self.datasets = df.read_pickle('datasets.pkl')
+    else:
+      self.datasets = df.DataFrame()
   
   def start(self):
     self.praw = praw.Reddit(
@@ -53,8 +57,11 @@ class Monitor:
     )
     self.subreddit = self.praw.subreddit("wallstreetbets")
     
-    threading.Thread(name='comments', target=self.monitorComments).start()
-    threading.Thread(name='submissions', target=self.monitorSubmissions).start()
+    self.commentThread = threading.Thread(name='comments', target=self.monitorComments)
+    self.submissionThread = threading.Thread(name='submissions', target=self.monitorSubmissions)
+    self.commentThread.start()
+    self.submissionThread.start()
+    
     
   def monitorSubmissions(self):
     for submission in self.subreddit.stream.submissions():
@@ -79,7 +86,7 @@ class Monitor:
       #print('\n\n----------------')
       #print(has_rocket, submission.title)
       #print(found)
-      self.record(source='post', has_rocket=has_rocket, symbols=found, title=submission.title)
+      self.record(source='submission', has_rocket=has_rocket, symbols=found, title=submission.title)
   
   def process_comment(self, comment):
     NER = nlp(comment.body.lower())
@@ -99,7 +106,10 @@ class Monitor:
     d = datetime.datetime.now()
     dname = '{}-{}-{}_{}_{}'.format(d.year,d.month,d.day,d.hour,d.minute)
     if self.df_name != dname:
-      filename = ""+dname+".pkl"
+      filename = "data/"+dname+".pkl"
+      # Save to the index
+      self.datasets.at[datetime.timestamp(d), 'filename'] = filename
+      self.datasets.to_pickle('datasets.pkl')
       print("#### New DF: ", filename)
       # Save the previous df?
       if self.df_name != False:
