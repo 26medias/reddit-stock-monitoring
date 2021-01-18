@@ -73,9 +73,17 @@ class Monitor:
 
   def process_submission(self, submission):
     NER = nlp(submission.title.lower())
+    NER2 = nlp(submission.selftext.lower())
     found = []
     has_rocket = '🚀' in submission.title.lower()
     for token in NER:
+      if '.' in token.text:
+        w = token.text.upper().split('.')[0]
+      else:
+        w = token.text.upper()
+      if token.pos_ in ['ADP','NOUN','PROPN'] and w in real_symbols and w not in false_symbol:
+        found.append(w)
+    for token in NER2:
       if '.' in token.text:
         w = token.text.upper().split('.')[0]
       else:
@@ -86,7 +94,7 @@ class Monitor:
       #print('\n\n----------------')
       #print(has_rocket, submission.title)
       #print(found)
-      self.record(source='submission', has_rocket=has_rocket, symbols=found, title=submission.title)
+      self.record(source='submission', has_rocket=has_rocket, symbols=list(set(found)), title=submission.title)
   
   def process_comment(self, comment):
     NER = nlp(comment.body.lower())
@@ -100,7 +108,7 @@ class Monitor:
       if token.pos_ in ['ADP','NOUN','PROPN'] and w in real_symbols and w not in false_symbol:
         found.append(w)
     if (len(found)>0):
-      self.record(source='comment', has_rocket=has_rocket, symbols=found, title=comment.body)
+      self.record(source='comment', has_rocket=has_rocket, symbols=list(set(found)), title=comment.body)
     
   def get_df(self):
     d = datetime.now()
@@ -127,7 +135,7 @@ class Monitor:
     return self.df
 
   def record(self, source, has_rocket, symbols, title=''):
-    print(source, title)
+    print(source, has_rocket, symbols)
     df = self.get_df()
     for symbol in symbols:
       if symbol in df.index:
