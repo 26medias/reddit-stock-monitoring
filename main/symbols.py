@@ -113,22 +113,26 @@ class Monitor:
   def get_df(self):
     d = datetime.now()
     dname = '{}-{}-{}_{}_{}'.format(d.year,d.month,d.day,d.hour,d.minute)
+    filename = "data/"+dname+".pkl"
+    filename_prev = "data/"+self.dname+".pkl"
     if self.df_name != dname:
-      filename = "data/"+dname+".pkl"
       # Save to the index
       self.datasets.at[datetime.timestamp(d), 'filename'] = filename
       self.datasets.to_pickle('datasets.pkl')
       print("#### New DF: ", filename)
       # Save the previous df?
       if self.df_name != False:
-        filename = "data/"+self.df_name+".pkl"
-        self.df.to_pickle(filename)
-      # Recover the df
+        self.df.to_pickle(filename_prev)
+      
+      # Create a new df
       if os.path.exists(filename):
+        # Recover existing file
+        self.df = False
         self.df = pd.read_pickle(filename)
         self.df_name = dname
       else:
         # Create a new DF
+        self.df = False
         self.df = pd.DataFrame(columns=['comment', 'submission', 'rockets'])
         self.df_name = dname
       self.df.to_pickle(filename)
