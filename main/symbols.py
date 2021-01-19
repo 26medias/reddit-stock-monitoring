@@ -49,7 +49,7 @@ class Monitor:
     print("Monitoring")
     self.df = False
     self.df_name = False
-    if os.path.exists('datasets.pkl'):
+    if os.path.exists(sys.path[0]+'/datasets.pkl'):
       self.datasets = pd.read_pickle(sys.path[0]+'/datasets.pkl')
     else:
       self.datasets = pd.DataFrame()
