@@ -1,7 +1,4 @@
-#! /usr/bin/python
-
 import os
-import sys
 import praw
 import spacy
 nlp  = spacy.load('en_core_web_sm',disable=['ner','textcat'])
@@ -17,12 +14,10 @@ import threading
 class Tickers:
   def __init__(self):
     df = pd.DataFrame()
-    for filename in glob.glob(sys.path[0]+'/symbols/*'):
-      print('Loading symbols from '+filename)
+    for filename in glob.glob('symbols/*'):
       _df = pd.read_csv(filename, sep='\t')
-      _df['source'] = re.findall(r"symbols\/([a-zA-Z]+)\.txt", filename)[0]
+      _df['source'] = re.findall(r"^symbols\/([a-zA-Z]+)\.txt", filename)[0]
       df = df.append(_df)
-      print(filename+': ', len(_df), 'Total: ', len(df))
     self.df = df.dropna()
 
 tickers = Tickers()
@@ -34,9 +29,7 @@ false_symbol = ['ON','IN','AT','FOR','BY','DD','YOLO','CORP','ONE','SUB','MOON',
 
 
 # Get the credentials & settings for PRAW
-from auth import reddit_client_id, reddit_client_secret, reddit_password, reddit_useragent, reddit_username
-
-#reddit_client_id=os.environ['reddit_client_id']
+##reddit_client_id=os.environ['reddit_client_id']
 #reddit_client_secret=os.environ['reddit_client_secret']
 #reddit_password=os.environ['reddit_password']
 #reddit_useragent=os.environ['reddit_useragent']
@@ -49,12 +42,11 @@ class Monitor:
     print("Monitoring")
     self.df = False
     self.df_name = False
-    if os.path.exists(sys.path[0]+'/datasets.pkl'):
-      self.datasets = pd.read_pickle(sys.path[0]+'/datasets.pkl')
+    if os.path.exists('datasets.pkl'):
+      self.datasets = pd.read_pickle('datasets.pkl')
     else:
       self.datasets = pd.DataFrame()
-  
-  def start(self):
+    # PRAW setup
     self.praw = praw.Reddit(
       client_id=reddit_client_id,
       client_secret=reddit_client_secret,
@@ -62,23 +54,24 @@ class Monitor:
       user_agent=reddit_useragent,
       username=reddit_username
     )
-    self.subreddit = self.praw.subreddit("wallstreetbets")
-    
-    self.commentThread = threading.Thread(name='comments', target=self.monitorComments)
-    self.submissionThread = threading.Thread(name='submissions', target=self.monitorSubmissions)
-    self.commentThread.start()
-    self.submissionThread.start()
-    
-    
-  def monitorSubmissions(self):
-    for submission in self.subreddit.stream.submissions():
-      self.process_submission(submission)
   
-  def monitorComments(self):
-    for comment in self.subreddit.stream.comments():
-      self.process_comment(comment)
+  def start(self, subreddit="wallstreetbets"):
+    sub = self.praw.subreddit(subreddit)
+    commentThread = threading.Thread(name='comments', target=self.monitorComments, args=(sub,subreddit))
+    submissionThread = threading.Thread(name='submissions', target=self.monitorSubmissions, args=(sub,subreddit))
+    commentThread.start()
+    submissionThread.start()
 
-  def process_submission(self, submission):
+    
+  def monitorSubmissions(self, sub, subreddit):
+    for submission in sub.stream.submissions():
+      self.process_submission(submission, subreddit)
+  
+  def monitorComments(self, sub, subreddit):
+    for comment in sub.stream.comments():
+      self.process_comment(comment, subreddit)
+
+  def process_submission(self, submission, subreddit):
     NER = nlp(submission.title.lower())
     NER2 = nlp(submission.selftext.lower())
     found = []
@@ -101,9 +94,9 @@ class Monitor:
       #print('\n\n----------------')
       #print(has_rocket, submission.title)
       #print(found)
-      self.record(source='submission', has_rocket=has_rocket, symbols=list(set(found)), title=submission.title)
+      self.record(source='submission', has_rocket=has_rocket, symbols=list(set(found)), title=submission.title, subreddit=subreddit)
   
-  def process_comment(self, comment):
+  def process_comment(self, comment, subreddit):
     NER = nlp(comment.body.lower())
     found = []
     has_rocket = '🚀' in comment.body.lower()
@@ -115,46 +108,44 @@ class Monitor:
       if token.pos_ in ['ADP','NOUN','PROPN'] and w in real_symbols and w not in false_symbol:
         found.append(w)
     if (len(found)>0):
-      self.record(source='comment', has_rocket=has_rocket, symbols=list(set(found)), title=comment.body)
+      self.record(source='comment', has_rocket=has_rocket, symbols=list(set(found)), title=comment.body, subreddit=subreddit)
     
   def get_df(self):
     d = datetime.now()
     dname = '{}-{}-{}_{}_{}'.format(d.year,d.month,d.day,d.hour,d.minute)
-    filename = sys.path[0]+"/data/"+dname+".pkl"
-    if self.df_name != False:
-      filename_prev = sys.path[0]+"/data/"+self.df_name+".pkl"
+    filename = "data/"+dname+".pkl"
+    filename_prev = "data/"+self.dname+".pkl"
     if self.df_name != dname:
       # Save to the index
       self.datasets.at[datetime.timestamp(d), 'filename'] = filename
-      self.datasets.to_pickle(sys.path[0]+'/datasets.pkl')
+      self.datasets.to_pickle('datasets.pkl')
       print("#### New DF: ", filename)
       # Save the previous df?
       if self.df_name != False:
         self.df.to_pickle(filename_prev)
-        self.df = False # Delete the df
+      
       # Create a new df
       if os.path.exists(filename):
         # Recover existing file
-        print("#### Recovering DF: ", filename)
+        self.df = False
         self.df = pd.read_pickle(filename)
         self.df_name = dname
       else:
         # Create a new DF
+        self.df = False
         self.df = pd.DataFrame(columns=['comment', 'submission', 'rockets'])
         self.df_name = dname
       self.df.to_pickle(filename)
     return self.df
 
-  def record(self, source, has_rocket, symbols, title=''):
-    print(source, has_rocket, symbols)
+  def record(self, source, has_rocket, symbols, subreddit, title=''):
+    print(subreddit, source, has_rocket, symbols)
     df = self.get_df()
     for symbol in symbols:
       if symbol in df.index:
         df.at[symbol, source] = df.at[symbol, source]+1
         if has_rocket:
           df.at[symbol, 'rockets'] = df.at[symbol, 'rockets']+1
-        else:
-          df.at[symbol, 'rockets'] = 0
       else:
         df.at[symbol, source] = 1
         if has_rocket:
@@ -163,4 +154,6 @@ class Monitor:
           df.at[symbol, 'rockets'] = 0
 
 reddit = Monitor()
-reddit.start()
+reddit.start(subreddit="wallstreetbets")
+reddit.start(subreddit="pennystocks")
+reddit.start(subreddit="Baystreetbets")
