@@ -17,9 +17,11 @@ class Tickers:
   def __init__(self):
     df = pd.DataFrame()
     for filename in glob.glob('symbols/*'):
+      print('Loading symbols from '+filename)
       _df = pd.read_csv(filename, sep='\t')
       _df['source'] = re.findall(r"^symbols\/([a-zA-Z]+)\.txt", filename)[0]
       df = df.append(_df)
+      print(filename+': ', len(_df), 'Total: ', len(df))
     self.df = df.dropna()
 
 tickers = Tickers()
