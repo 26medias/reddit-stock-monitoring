@@ -33,11 +33,13 @@ false_symbol = ['ON','IN','AT','FOR','BY','DD','YOLO','CORP','ONE','SUB','MOON',
 
 
 # Get the credentials & settings for PRAW
-reddit_client_id=os.environ['reddit_client_id']
-reddit_client_secret=os.environ['reddit_client_secret']
-reddit_password=os.environ['reddit_password']
-reddit_useragent=os.environ['reddit_useragent']
-reddit_username=os.environ['reddit_username']
+from auth import reddit_client_id, reddit_client_secret, reddit_password, reddit_useragent, reddit_username
+
+#reddit_client_id=os.environ['reddit_client_id']
+#reddit_client_secret=os.environ['reddit_client_secret']
+#reddit_password=os.environ['reddit_password']
+#reddit_useragent=os.environ['reddit_useragent']
+#reddit_username=os.environ['reddit_username']
 
 
 # Monitor Reddit
