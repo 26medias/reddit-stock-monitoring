@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Private files
+auth.py
+
+
 #Project files
 *.prj
 *.pui
