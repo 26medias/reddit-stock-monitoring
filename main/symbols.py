@@ -123,16 +123,16 @@ class Monitor:
       # Save the previous df?
       if self.df_name != False:
         self.df.to_pickle(filename_prev)
-      
+      	self.df = False # Delete the df
+      	
       # Create a new df
       if os.path.exists(filename):
         # Recover existing file
-        self.df = False
+        print("#### Recovering DF: ", filename)
         self.df = pd.read_pickle(filename)
         self.df_name = dname
       else:
         # Create a new DF
-        self.df = False
         self.df = pd.DataFrame(columns=['comment', 'submission', 'rockets'])
         self.df_name = dname
       self.df.to_pickle(filename)
