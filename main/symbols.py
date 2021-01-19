@@ -119,7 +119,8 @@ class Monitor:
     d = datetime.now()
     dname = '{}-{}-{}_{}_{}'.format(d.year,d.month,d.day,d.hour,d.minute)
     filename = fix_path("data/"+dname+".pkl")
-    filename_prev = fix_path("data/"+self.df_name+".pkl")
+    if self.df_name != False:
+      filename_prev = fix_path("data/"+self.df_name+".pkl")
     if self.df_name != dname:
       # Save to the index
       self.datasets.at[datetime.timestamp(d), 'filename'] = filename
