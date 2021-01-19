@@ -1,4 +1,5 @@
 import os
+import sys
 import praw
 import spacy
 nlp  = spacy.load('en_core_web_sm',disable=['ner','textcat'])
@@ -10,13 +11,16 @@ import re
 from datetime import datetime
 import threading
 
+def fix_path(name):
+  return sys.path[0]+'/'+name
+
 # Get the symbols
 class Tickers:
   def __init__(self):
     df = pd.DataFrame()
-    for filename in glob.glob('symbols/*'):
+    for filename in glob.glob(fix_path('symbols/*')):
       _df = pd.read_csv(filename, sep='\t')
-      _df['source'] = re.findall(r"^symbols\/([a-zA-Z]+)\.txt", filename)[0]
+      _df['source'] = re.findall(r"symbols\/([a-zA-Z]+)\.txt", filename)[0]
       df = df.append(_df)
     self.df = df.dropna()
 
@@ -42,8 +46,8 @@ class Monitor:
     print("Monitoring")
     self.df = False
     self.df_name = False
-    if os.path.exists('datasets.pkl'):
-      self.datasets = pd.read_pickle('datasets.pkl')
+    if os.path.exists(fix_path('datasets.pkl')):
+      self.datasets = pd.read_pickle(fix_path('datasets.pkl'))
     else:
       self.datasets = pd.DataFrame()
     # PRAW setup
@@ -113,12 +117,12 @@ class Monitor:
   def get_df(self):
     d = datetime.now()
     dname = '{}-{}-{}_{}_{}'.format(d.year,d.month,d.day,d.hour,d.minute)
-    filename = "data/"+dname+".pkl"
-    filename_prev = "data/"+self.dname+".pkl"
+    filename = fix_path("data/"+dname+".pkl")
+    filename_prev = fix_path("data/"+self.dname+".pkl")
     if self.df_name != dname:
       # Save to the index
       self.datasets.at[datetime.timestamp(d), 'filename'] = filename
-      self.datasets.to_pickle('datasets.pkl')
+      self.datasets.to_pickle(fix_path('datasets.pkl'))
       print("#### New DF: ", filename)
       # Save the previous df?
       if self.df_name != False:
