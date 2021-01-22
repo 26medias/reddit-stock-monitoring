@@ -131,15 +131,16 @@ class Monitor:
     if self.df_name != False:
       filename_prev = fix_path("datasets/data/"+self.df_name+".pkl")
     if self.df_name != dname:
+      # New timestep, move on to a new dataset
       # Save to the index
-      self.datasets.at[datetime.timestamp(d), 'filename'] = filename
+      self.datasets.at[datetime.timestamp(d), 'filename'] = filename.replace('/home/julien/mk2/main/','')
       self.datasets.to_pickle(fix_path('datasets/datasets.pkl'))
       print("#### New DF: ", filename)
-      # Save the previous df?
+      # No the first run? There was a previous timestep buffer?
       if self.df_name != False:
         self.df.to_pickle(filename_prev)
       
-      # Create a new df
+      # Create/recover a new df
       if os.path.exists(filename):
         # Recover existing file
         self.df = False
@@ -150,7 +151,7 @@ class Monitor:
         self.df = False
         self.df = pd.DataFrame(columns=['comment', 'submission', 'rockets'])
         self.df_name = dname
-      #self.df.to_pickle(filename)
+      self.df.to_pickle(filename)
     return self.df
 
   def record(self, source, has_rocket, symbols, subreddit, title=''):
