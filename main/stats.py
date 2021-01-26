@@ -58,8 +58,8 @@ class Explorer:
       cp.index = cp.index.astype(int)
       cp.index = cp.index * 1000000000
       cp.index = pd.to_datetime(cp.index)
-	
-	limit_symbols = None
+
+    limit_symbols = None
     if markets is not None:
       limit_symbols = tickers.df[tickers.df['source'].isin(markets)]['Symbol'].unique()
 
