@@ -1,17 +1,10 @@
 #!/usr/bin/python
-
 import os
 import sys
-import praw
-import spacy
-nlp  = spacy.load('en_core_web_sm',disable=['ner','textcat'])
-import nltk
-from nltk.tokenize import word_tokenize
 import glob
 import pandas as pd
 import re
 from datetime import datetime
-import threading
 
 dev_mode = False
 
@@ -46,9 +39,11 @@ class Explorer:
   def __init__(self):
     self.ds_indexes = pd.read_pickle('datasets/datasets.pkl')
   
-  def buildMatrix(self, limit=None):
+  def buildMatrix(self, limit=None, markets=None):
     ds = {}
     symbols = []
+
+    
     
     if limit is not None:
       deltaT = datetime.now() - timedelta(hours = limit)
@@ -64,12 +59,16 @@ class Explorer:
       cp.index = cp.index * 1000000000
       cp.index = pd.to_datetime(cp.index)
 
+    if markets is not None:
+      limit_symbols = tickers.df[tickers.df['source'].isin(markets)]['Symbol'].unique()
+
     # Load the datasets
     for index, row in cp.iterrows():
       filename = 'datasets/'+row['filename'].replace('/home/julien/mk2/main/datasets/','')
       if os.path.exists(filename):
         ds[index] = pd.read_pickle(filename)
         if len(ds[index])>0:
+          ds[index] = ds[index][ds[index].index.isin(limit_symbols)]
           ds[index]['total'] = ds[index]['comment']+ds[index]['submission']
           symbols = symbols + list(ds[index].index)
     # List the unique symbols
@@ -129,9 +128,16 @@ class Explorer:
     return df.sort_values(ascending=False, by='score')
 
 
+
 explorer = Explorer()
-matrix = explorer.buildMatrix(limit=72)
-#df = matrix.rolling(5).mean()
-#explorer.rank(matrix)
-#explorer.top_rising(matrix, h=3, n=10).head(20)
+
+
+limit_market = None
+if len(sys.argv)>=3) {
+  limit_market = sys.argv[2]
+}
+
+
+matrix = explorer.buildMatrix(limit=72, markets=[limit_market])
+
 print(explorer.top_ranking(matrix, freq=sys.argv[1], delay=-1).head(30))
