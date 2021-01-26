@@ -130,8 +130,8 @@ class Explorer:
 
 
 explorer = Explorer()
-matrix = explorer.buildMatrix()
+matrix = explorer.buildMatrix(limit=72)
 #df = matrix.rolling(5).mean()
 #explorer.rank(matrix)
 #explorer.top_rising(matrix, h=3, n=10).head(20)
-explorer.top_ranking(matrix, freq=sys.argv[0], delay=-1).head(30)
+explorer.top_ranking(matrix, freq=sys.argv[1], delay=-1).head(30)
