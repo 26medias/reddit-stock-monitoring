@@ -70,7 +70,8 @@ class Explorer:
       if os.path.exists(filename):
         ds[index] = pd.read_pickle(filename)
         if len(ds[index])>0:
-          ds[index] = ds[index][ds[index].index.isin(limit_symbols)]
+          if limit_symbols is not None:
+          	ds[index] = ds[index][ds[index].index.isin(limit_symbols)]
           ds[index]['total'] = ds[index]['comment']+ds[index]['submission']
           symbols = symbols + list(ds[index].index)
     # List the unique symbols
