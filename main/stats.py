@@ -131,6 +131,7 @@ class Explorer:
 
 explorer = Explorer()
 
+print("args: ", len(sys.argv), " - ", sys.argv)
 
 limit_market = None
 if len(sys.argv)>=3:
