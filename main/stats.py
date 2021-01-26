@@ -61,7 +61,7 @@ class Explorer:
 
     limit_symbols = None
     if markets is not None:
-      limit_symbols = tickers.df[tickers.df['source'].isin(markets)]['Symbol'].unique()
+      limit_symbols = list(tickers.df[tickers.df['source'].isin(markets)]['Symbol'].unique())
 
     # Load the datasets
     for index, row in cp.iterrows():
