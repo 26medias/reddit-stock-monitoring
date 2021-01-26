@@ -142,15 +142,15 @@ if len(sys.argv)>=4 and sys.argv[3] != 'None':
 
 matrix = explorer.buildMatrix(limit=72, markets=limit_market)
 
-if sys.argv[2] == "top":
+if sys.argv[1] == "top":
   # python3 stats.py top 24h
   # python3 stats.py top 24h OTCBB
   print(explorer.top_ranking(matrix, freq=sys.argv[2], delay=-1).head(30))
-elif sys.argv[2] == "rising":
+elif sys.argv[1] == "rising":
   # python3 stats.py rising 24h
   # python3 stats.py rising 12 OTCBB
   # python3 stats.py rising 12 OTCBB 5
   _n = 10
-  if len(sys.argv)>=5 and sys.argv[4] != 'None':
+  if len(sys.argv)>=5:
   	_n = int(sys.argv[4])
   print(explorer.top_rising(matrix, h=int(sys.argv[2]), n=_n).head(30))
