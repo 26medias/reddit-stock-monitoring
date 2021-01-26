@@ -135,10 +135,10 @@ print("args: ", len(sys.argv), " - ", sys.argv)
 
 limit_market = None
 if len(sys.argv)>=3:
-  limit_market = sys.argv[2]
+  limit_market = [sys.argv[2]]
 
 
 
-matrix = explorer.buildMatrix(limit=72, markets=[limit_market])
+matrix = explorer.buildMatrix(limit=72, markets=limit_market)
 
 print(explorer.top_ranking(matrix, freq=sys.argv[1], delay=-1).head(30))
