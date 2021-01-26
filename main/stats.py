@@ -40,6 +40,7 @@ class Explorer:
     self.ds_indexes = pd.read_pickle('datasets/datasets.pkl')
   
   def buildMatrix(self, limit=None, markets=None):
+    print("buildMatrix()", limit, markets)
     ds = {}
     symbols = []
 
