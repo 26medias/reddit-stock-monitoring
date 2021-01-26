@@ -137,11 +137,20 @@ explorer = Explorer()
 print("args: ", len(sys.argv), " - ", sys.argv)
 
 limit_market = None
-if len(sys.argv)>=3:
-  limit_market = [sys.argv[2]]
-
-
+if len(sys.argv)>=4 and sys.argv[3] != 'None':
+  limit_market = [sys.argv[3]]
 
 matrix = explorer.buildMatrix(limit=72, markets=limit_market)
 
-print(explorer.top_ranking(matrix, freq=sys.argv[1], delay=-1).head(30))
+if sys.argv[3] == "top":
+  # python3 stats.py top 24h
+  # python3 stats.py top 24h OTCBB
+  print(explorer.top_ranking(matrix, freq=sys.argv[2], delay=-1).head(30))
+elif sys.argv[3] == "rising":
+  # python3 stats.py rising 24h
+  # python3 stats.py rising 12 OTCBB
+  # python3 stats.py rising 12 OTCBB 5
+  _n = 10
+  if len(sys.argv)>=5 and sys.argv[4] != 'None':
+  	_n = int(sys.argv[4])
+  print(explorer.top_rising(matrix, h=int(sys.argv[2]), n=_n).head(30))
