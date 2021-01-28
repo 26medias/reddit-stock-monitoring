@@ -2,14 +2,9 @@
 import os
 import sys
 import glob
+import pandas as pd
 import re
-import argparse
-import pandas as pd
-import argparse
-import numpy as np
-import pandas as pd
-from datetime import datetime, date, timedelta
-
+from datetime import datetime
 
 dev_mode = False
 
@@ -35,6 +30,10 @@ df = tickers.df
 real_symbols = df['Symbol'].unique()
 false_symbol = ['ON','IN','AT','FOR','BY','DD','YOLO','CORP','ONE','SUB','MOON','CEO','OUT','INTO','MAN','POST','BRO','LIFE','CALL','DUDE','IDEA']
 
+import os
+import numpy as np
+import pandas as pd
+from datetime import datetime, date, timedelta
 
 class Explorer:
   def __init__(self):
@@ -67,7 +66,7 @@ class Explorer:
 
     # Load the datasets
     for index, row in cp.iterrows():
-      filename = 'datasets/'+row['filename'].replace('/home/julien/mk2/main/datasets/','').replace('datasets/','')
+      filename = 'datasets/'+row['filename'].replace('/home/julien/mk2/main/datasets/','')
       if os.path.exists(filename):
         ds[index] = pd.read_pickle(filename)
         if len(ds[index])>0:
@@ -137,20 +136,10 @@ class Explorer:
     return ranked[symbol]
 
 
+
 explorer = Explorer()
 
 print("args: ", len(sys.argv), " - ", sys.argv)
-
-# python stats.py rising -freq 1h 
-parser = argparse.ArgumentParser(description='Reddit Stock Stats')
-parser.add_argument('integers', metavar='N', type=int, nargs='+',
-                    help='an integer for the accumulator')
-parser.add_argument('--sum', dest='accumulate', action='store_const',
-                    const=sum, default=max,
-                    help='sum the integers (default: find the max)')
-
-args = parser.parse_args()
-
 
 limit_market = None
 if len(sys.argv)>=4 and sys.argv[3] != 'None':
