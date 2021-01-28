@@ -141,15 +141,16 @@ explorer = Explorer()
 
 print("args: ", len(sys.argv), " - ", sys.argv)
 
-# python stats.py rising -freq 1h 
-parser = argparse.ArgumentParser(description='Reddit Stock Stats')
-parser.add_argument('integers', metavar='N', type=int, nargs='+',
-                    help='an integer for the accumulator')
-parser.add_argument('--sum', dest='accumulate', action='store_const',
-                    const=sum, default=max,
-                    help='sum the integers (default: find the max)')
 
-args = parser.parse_args()
+# python stats.py rising -freq 1h 
+#parser = argparse.ArgumentParser(description='Reddit Stock Stats')
+#parser.add_argument('integers', metavar='N', type=int, nargs='+',
+#                    help='an integer for the accumulator')
+#parser.add_argument('--sum', dest='accumulate', action='store_const',
+#                    const=sum, default=max,
+#                    help='sum the integers (default: find the max)')
+#
+#args = parser.parse_args()
 
 
 limit_market = None
