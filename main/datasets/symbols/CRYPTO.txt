@@ -1,0 +1,12 @@
+Symbol	Description
+DOGE	Dogecoin
+BTC	Bitcoin
+ETH	Ethereum
+LTC	Litecoin
+BCH	Bitcoin Cash
+XRP	XRP
+XLM	Stellar
+EOS	EOS
+TRX	TRON
+XVG	Verge
+XMR	Monero
